@@ -19,7 +19,7 @@ author:
 
 Transportation solutions have always been diverse, but with increased personal wealth and populations spreading out of cities into the suburbs, many people. have made their cars and trucks the only form of mobility, but this trend is changing.With migration back into city centers, a greater understanding and concern for the environment and breakthroughs in communication technologies, many people are looking for and accepting other modes of transportation.. Naturally, with these cultural changes, car designers will need to shift their focus to cater for the demands of modern total mobility solutions.
 
-![image](./img/chapter_12/transportation.JPG)
+![image](./img/chapter_12/transportation.jpg)
 
 Vehicle architectures will need to cater for all of the curren situations in addition to new senerios, where exterior proportions will need to meet a variety of limitations and take advantage of emerging opportunities. Small vehicles may be carried long distances on trains and "last mile' devises, designed to carry people for short distances, may be stowed onboard. Currently about 80% of drivers. typically travel alone to and from work so it makes sense to develop vehicles that meet that need efficiently. Electriq powertrains, autonomous drive technologies and. infotainment possibilities will need to be fully exploited.
 

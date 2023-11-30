@@ -43,7 +43,7 @@ These three dynamic conditions happen during acceleration, braking and cornering
 
 Generally speaking, minimizing these will improve the handlir and in some cases, the ride comfort. The best way to control all three is to reduce the vehicle mass and distribute it evenly as close to the vehicle center as possible and low to the. ground. This reduces the "polar moment of inertia." Once the. aerodynamics and major components are set in the package the only way to further control the pitch, yaw and roll is with suspension design and tire choice.
 
-![image](./img/chapter_10/pitchyawroll.JPG)
+![image](./img/chapter_10/pitchyawroll.jpg)
 
 **Suspension System Attribute Priorities**
 Each vehicle will have its own set of priorities for both front and rear suspension.The systems should be matched up to these criteria.
@@ -69,18 +69,18 @@ Often used on utility vehicles that are designed to carry heavy loads.Most commo
 This system will often be applied to extreme SUVs, providing 4WD, strength and articulation. When setting up the package, allow for at least 150 mm of iounce travel for the axle assembly. The axle will usually be located directly underneath the engine, which will be mounted high enough to allow for the suspension travel. This will affect the driver's eve point which should be located high enouah to see over the hood.
 
 **SOLID AXLE SUSPENSIONS (LIVE & BEAM) Cont.**
-![image](./img/chapter_10/solidcondt.JPG)
+![image](./img/chapter_10/solidcondt.jpg)
 
 **SOLID LIVE AXLE WITH COIL SPRINGS**
-![image](./img/chapter_10/solidwithcoilsprings.JPG)
+![image](./img/chapter_10/solidwithcoilsprings.jpg)
 
 
 
 **SOLID LIVE AXLE WITH LEAF SPRINGS**
-![image](./img/chapter_10/solidlivewithleaf.JPG)
+![image](./img/chapter_10/solidlivewithleaf.jpg)
 
 **SOLID BEAM AXLE WITH LEAF SPRINGS**
-![image](./img/chapter_10/solidbeamwithleaf.JPG)
+![image](./img/chapter_10/solidbeamwithleaf.jpg)
 
 ### TRAILING ARM SUSPENSIONS
 ![image](./img/chapter_10/trailingarm.jpg)
@@ -89,43 +89,43 @@ Often used on small cars because it packages efficiently in light vehicles with 
 Using torsion bars and horizontal shock absorbers helps to lower the rear floor, improving cargo space. One drawback of trailing arm suspension is lateral flexing during cornering. Lateral links can be added to the system to improve handling Triangular trailing arms also help to minimize flexing.
 
 **TRAILING ARM / COIL SPRING SUSPENSION Cont.**
-![image](./img/chapter_10/trailingarmcondt.JPG)
+![image](./img/chapter_10/trailingarmcondt.jpg)
 
 **TRAILING ARM WITH COIL SPRING**
-![image](./img/chapter_10/trailingarmwithcoil.JPG)
+![image](./img/chapter_10/trailingarmwithcoil.jpg)
 
 **TRAILING ARM WITH TORSION BAR SRPING**
-![image](./img/chapter_10/trailingarmwithtorsionbar.JPG)
+![image](./img/chapter_10/trailingarmwithtorsionbar.jpg)
 
 **REAR SEMI TRAILING ARM WITH COIL SPRING**
 Semi trailing arms create a slight camber change during cornering which can optimize the handling attributes during hard driving.A solid beam axle can be mounted to trailing arms to create a simple lightweight system.A panhard rod or Watt's link controls lateral movement of the beam.
-![image](./img/chapter_10/semitrailingarm.JPG)
+![image](./img/chapter_10/semitrailingarm.jpg)
 
 ### STRUT SUSPENSION SYSTEMS
-![image](./img/chapter_10/strutsuspension.JPG)
+![image](./img/chapter_10/strutsuspension.jpg)
 
 **STRUT SUSPENSION SYSTEMS Cont.**
-![image](./img/chapter_10/strutsuspensioncondt.JPG)
+![image](./img/chapter_10/strutsuspensioncondt.jpg)
 
 **FRONT - MCPHERSON STRUT/COIL SPRINGS (INDEPENDENT)**
 Very common front suspension on passenger cars. McPherson struts incorporate the steering axis into the strut centerline, reducing cost.This system packages well with transverse engines, but usually requires a high fender to fit the spring above the tire. Chapman struts are used on rear applications where steering is not required.
-![image](./img/chapter_10/frmcpherson.JPG)
+![image](./img/chapter_10/frmcpherson.jpg)
 
 **REAR-CHAPMAN STRUT / COIL SPRING (non independent)**
-![image](./img/chapter_10/rearchapmanstrut.JPG)
+![image](./img/chapter_10/rearchapmanstrut.jpg)
 Ihis system can be very simple, inexpensive and lightweight (as shown).It also packages very efficiently It is ideal for lightweight, entry-level sports cars. More robust versions can be applied to larger, more capable cars and SUVs. In these applications the hub may be attached to the control arm rather than the strut.
 
 ### SLA (SHORT-LONG ARM)
-![image](./img/chapter_10/shortlongarm.JPG)
+![image](./img/chapter_10/shortlongarm.jpg)
 These are the most sophisticated systems, mainly used on high- performance and luxury cars, at both front and rear. Trucks and SUVs often use the SLA (short and long arm) system for their front suspension.
 
 The geometry of the control arms is designed to control camber change to maintain each tire's contact patch as the body rolls during cornering. Packaging the inner pivots axis can be a challenge on some vehicles. 
 
 Note that the upper control arm can be mounted in a low or high Iocation depending on the ideal attachment position and drive shaft configurations. Springs are usually coils but torsion bars and leaf springs can also be used to suit the application. On open-wheel race cars the coils are often mounted longitudinally inside the body to improve aerodynamics. These are actuated by a push rod and bell rank.
-![image](./img/chapter_10/shortlongarm2.JPG)
+![image](./img/chapter_10/shortlongarm2.jpg)
 
 Tires can be set vertically or with camber at curb attitude. Camber increases as the vehicle is loaded.When the body rolls during cornering the controlled camber change compensates,keeping the tire contact patch on the ground.
-![image](./img/chapter_10/slacont.JPG)
+![image](./img/chapter_10/slacont.jpg)
 
 **REAR -MULTI-LINK/COILSPRINGS (INDEPENDENT)**
-![image](./img/chapter_10/rearmultilink.JPG)
+![image](./img/chapter_10/rearmultilink.jpg)

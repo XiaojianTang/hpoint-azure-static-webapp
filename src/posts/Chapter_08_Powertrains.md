@@ -70,8 +70,8 @@ The energy from the power source (batteries, fuel cell or generator) must be pro
 
 The internal combustion engine has been used in just about every possible location and orientation. Each configuration has its strengths and weaknesses and is chosen to meet specific functional objectives like power, package efficiency, traction or weight distribution. Here are some examples of typical production-vehicle solutions.
 
-![image](./img/chapter_08/powertrainlayout1.JPG)
-![image](./img/chapter_08/powertrainlayout2.JPG)
+![image](./img/chapter_08/powertrainlayout1.jpg)
+![image](./img/chapter_08/powertrainlayout2.jpg)
 
 ### RONT TRANSVERSE ENGINE - FRONT WHEEL DRIVE
 ![image](./img/chapter_08/fwlayout1.jpg)
@@ -110,9 +110,9 @@ Once favored by many European makers for low-powered family car this layout is r
 ![image](./img/chapter_08/rrlayout2.jpg)
 
 ### MID TRANSVERSE ENGINE -REAR-WHEEL DRIVE
-![image](./img/chapter_08/mrtranslayout1.JPG)
+![image](./img/chapter_08/mrtranslayout1.jpg)
 The mid transverse layout is often used on small sports cars. Engine size is limited by the track width, so these are usually found in lightweight, performance cars.The powertrains. are often adapted from front-wheel drive vehicles.This provides great weight distribution. in a car with a short wheelbase.
-![image](./img/chapter_08/mrtranslayout2.JPG)
+![image](./img/chapter_08/mrtranslayout2.jpg)
 
 ### REAR TRANSVERSE ENGINE -REAR-WHEEL DRIVE
 ![image](./img/chapter_08/rrtranslayout1.jpg)
@@ -120,15 +120,15 @@ Rear transverse engine layouts are applied when space (length) is critical. It i
 ![image](./img/chapter_08/rrtranslayout2.jpg)
 
 ### MID UNDER FLOOR ENGINE-REAR-WHEEL DRIVE
-![image](./img/chapter_08/midunderfloorlayout1.JPG)
+![image](./img/chapter_08/midunderfloorlayout1.jpg)
 This layout is used for space efficiency more than weight distribution and is usually applied to micro-utility vehicles. The engine is packaged under the passenger seat, which restricts its size and limits the weight of the vehicle. Access for maintenance can be an issue. AwD is possible through a transfer case.
-![image](./img/chapter_08/midunderfloorlayout2.JPG)
+![image](./img/chapter_08/midunderfloorlayout2.jpg)
 
 ### ELECTRIC DRIVE
-![image](./img/chapter_08/evlayout1.JPG)
+![image](./img/chapter_08/evlayout1.jpg)
 From a packaging perspective, electric drive offers a tremendous opportunity to design more space-efficient vehicles, mainly because the motors are so much smaller than internal combustion engines.The other components that make up the powertrain can b distributed throughout the package in remote locations, unlike conventional powertrain. systems which are linked mechanically, creating a large, heavy assembly that has to be worked around. Another significant difference is the power source or fuel. Conventiona. cars have fuel tanks that are relatively small and can be molded to fit around other components, whereas the energy source for an electric system, either a battery or fuel cell, is quite large and in the case of batteries, very heavy. This can work as an advantage, lowering the center of gravity.
 
-![image](./img/chapter_08/evlayout2.JPG)
+![image](./img/chapter_08/evlayout2.jpg)
 
 ### HYBRID DRIVE SYSTEMS
 ![image](./img/chapter_08/hybridlayout1.jpg)

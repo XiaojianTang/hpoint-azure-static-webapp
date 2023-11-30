@@ -12,7 +12,7 @@ author:
 ---
 # Chapter 11 Bodies & Exterior Trim
 
-![image](./img/chapter_11/chapter11cover.JPG)
+![image](./img/chapter_11/chapter11cover.jpg)
 >“The body is a very complex system, which threads throughout the architecture, holding all the elements together. The package is developed in a series of sections cut through the body structure and doors."
 
 # Section 11.1 Introduction to Bodies
@@ -219,14 +219,14 @@ These two sill sections illustrate how various materials and manufacturing proce
 
 **Extruded aluminum sillsection**,part of a light weight space-frame structure.
 
-![image](./img/chapter_11/extrudealumisection.JPG)
-![image](./img/chapter_11/alumibody.JPG)
+![image](./img/chapter_11/extrudealumisection.jpg)
+![image](./img/chapter_11/alumibody.jpg)
 
 ## Section 11.3 Closures
 
 The closures and their apertures are designed to provide access to the passenger compartment, engine bay and cargo area. The various solutions are illustrated below. Their outlines are a design. element, so breaking up the exterior panels and closures should be considered early in the process.
 
-![image](./img/chapter_11/doorhingetypes.JPG)
+![image](./img/chapter_11/doorhingetypes.jpg)
 
 **Front Hinged Doors**
 This conventional layout is applied to most cars. It provides independent. closures for front and rear passengers. that are inexpensive and simple to. operate. It also requires a B pillar which. is essential for an efficient structure, side. impact and seat belt mounting. Longer. doors may have four bar-link hinges to help push the front of the door outboard in tight parking situations.
@@ -237,7 +237,7 @@ Occasionally applied to vehicles with a short cab or wheelbase, which reduces th
 **Scissor Doors**
 This type of door system adds drama to the design of exotic cars but also has some practical advantages.For wide sports cars with deep sill. sections, it eliminates the problems caused by out-swinging doors in tight parking situations, improving ingress and egress.
 
-![image](./img/chapter_11/doorhingetypes2.JPG)
+![image](./img/chapter_11/doorhingetypes2.jpg)
 
 **Gull Wing Doors**
 Similar application and advantages as the scissor door. This system can only be applied to low vehicles because it increases the overall height with the doors open, making garage parking a problem. The inherent design geometry cuts into the roof, improving ingress ano egress into an inboard seat location,. over a tall sill section..
@@ -249,7 +249,7 @@ Often appliedto minivans and commercial vans.Ideal for situations where an out s
 For performance or race cars, good access to all of the powertrain and suspension components is important to allow quick adjustment to these systems Hinged or removable covers with side cut lines provide large open apertures.
 
 
-![image](./img/chapter_11/doorhingetypes3.JPG)
+![image](./img/chapter_11/doorhingetypes3.jpg)
 
 **Liftgate (Hatch )**
 The most common rear aperture closure for minivans, hatchbacks and SUVs. Providing good access from all angles and cover from rain. Also eliminates doors from opening into parking lot traffic. The backlight glass can also lift independently.Electric operation can help shorter people close the gate on vehicles with a tall roof.
@@ -261,7 +261,7 @@ Used extensively on pickup trucks, tailgates are designed to remain dropped whil
 Often applied to vehicles that carry thei spare wheel on the rear gate, making a lift gate impractical. Sealing the two-. piece closure is more complex than a single gate.
 
 
-![image](./img/chapter_11/doorhingetypes4.JPG)
+![image](./img/chapter_11/doorhingetypes4.jpg)
 
 **Lift & Tailgate**
 This split closure system provides a flexible loading solution allowing the lift glass to be opened without the cargo spilling out. It also provides an opening to improve passenger compartment airflow. The tailgate provides an. exterior seating area and extends the load floor.
@@ -377,7 +377,7 @@ If your concept calls tor a close relationship ot the toot and tir in side view,
 
 The illustration below shows how the seat, the door trim and the A-pillar trim need adequate clearance, allowing the drivers. to swing their feet through the opening..
 
-![image](./img/chapter_11/footswing.JPG)
+![image](./img/chapter_11/footswing.jpg)
 
 ### FOOT SWING Cont.
 
@@ -390,7 +390,7 @@ This rear-wheel-drive car has a longitudinal engine and the front. wheel is loca
 A typical front-wheel drive vehicle with a transverse engine places a high. priority on package efficiency. The driver is pushed as far forward as possible. in the wheelbase to create a spacious interior in a very short overall length. In this type of architecture, it is very important not to push the driver too close tc the tire or it will create an ingress/egress issue. Although the main issue here. appears to be a potential clash between the driver or foot pedals and front. wheel house, the actual problem is the foot swing past the A-pillar structure. which is rearward of the wheel opening as shown on the previous page..
 
 **EXOTIC SPORTS CAR** MID, LONGITUDINAL ENGINE - RWD
-![image](./img/chapter_11/footswingexoticsportscar.JPG)
+![image](./img/chapter_11/footswingexoticsportscar.jpg)
 This exotic mid-engine sports car packages the foot forward of the tire O.D. There are several elements in this architecture that make it possible.The first is a wide track which pushes the tire outboard for greater stability and handling.. Next, the driver may be located inboard to reduce the width of the greenhouse which reduces drag and the polar moment. This is the opposite of the previous example where the vehicle is narrow and the driver is pushed outboard for. interior space efficiency. Lastly, the exotic sports-car owner will be more orgiving of poor ingress and egress if the package improves performance.. An unorthodox door opening may also improve the situation.. H-PoINT | Bodies & Exterior Trim
 
 **COMMERCIAL/PASSENGER VANS** FRONT-TRANSVERSE ENGINE-FWD
@@ -435,11 +435,11 @@ It's worth taking time to set it up correctly because many othe elements such as
 This study shows how typical sections, cut through various elements around the. package, are used to set up the windshield aperture.Notice that elements of the body structurei.e.the header and cowl/plenum-are shown together with the interior trim and windshield. The engine and hood are also drawn and the section is completed with the inclusion of the driver manikin to check forward visibility.. The exterior shape and location of the top of the windshield is a particularly sensitive design element to the exterior designer.
 
 ### A PILLAR OBSCURATION CHECK
-![image](./img/chapter_11/apillarobscuration1.JPG)
+![image](./img/chapter_11/apillarobscuration1.jpg)
 
 Below is a basic outline of the pillar obscuration geometry studies,. illustrating how the pillar structure and trim are designed to meet specific obscuration parameters. These are usually set up in a computer system. Most designers will never have to execute these studies, but need to. understand that there are limitations on the size and location of the A pillars. The main objective for the A-pillar design is to create a strong. enough structure to meet roof crush targets but make it easy to see aroul it. A full description of the geometry and eye points (E1, E2, E3 & E4) set. can be found in the 77/649/ EC directive and SAE J1050 recommendatic
 
-![image](./img/chapter_11/apillarobscuration2.JPG)
+![image](./img/chapter_11/apillarobscuration2.jpg)
 
 ### REARWARD VISIBILITY
 The regulations affecting rear visibility and the backlight aperture are not as strict as the windshield aperture. Mostly, they require an additional exterior mirror if visibility does not meet the regulations.
@@ -508,17 +508,17 @@ The outside air enters the car at this low pressure area and travel through the 
 
 Other factors like wind-noise reduction and water removal are nigh considerations in luxury cars, but these are often addressec with localized surface contours and hardware details, which will not affect the package.
 
-![image](./img/chapter_11/breathingapertures.JPG)
+![image](./img/chapter_11/breathingapertures.jpg)
 
 ### EXTERIOR SHAPES
 
 These two illustrations show some of the fundamental do's and don'ts of packaging to create good aerodynamics.
 **GOOD**
-![image](./img/chapter_11/aerogood.JPG)
+![image](./img/chapter_11/aerogood.jpg)
 Being small, low and narrow, this car is already set up for reduced drag. Additionally, the low front, gently contoured roof line, sides tapered in toward the rear, a sharp rear cut-off creating minimal turbulence, and fared-in rear wheels further contribute to low drag coefficient.
 
 **BAD**
-![image](./img/chapter_11/aerobad.JPG)
+![image](./img/chapter_11/aerobad.jpg)
 
 This SUV is an aerodynamic nightmare. With the large, high and wide body, the vehicle above will have to push a lot of air out of the way as it travels at speed. The other features on the body will disrupt the airflow, creating additional drag,particularly the abrupt changes of body shape and untidy underside.
 
@@ -583,17 +583,17 @@ Two forward-facing lights mounted symmetrically about centerline. Fog-light func
 * Required in Europe.(ECE-R6, R48)
 
 **SIDE MARKER**
-![image](./img/chapter_11/sidemarker.JPG)
+![image](./img/chapter_11/sidemarker.jpg)
 Side markers indicate the overall length of the vehicle. 
 * Required in US (SAE and FMVSS 108) and Europe. (ECE-R6, R7 R77, R48)
 
 **SIDE REPEATER LAMPS**
-![image](./img/chapter_11/siderepeater.JPG)
+![image](./img/chapter_11/siderepeater.jpg)
 Work with turn signals to show intent to turn or change lanes to vehicles traveling alongside.
 * Required in Europe.(ECE-R87,R48)
 
 **CENTER HIGH-MOUNTED STOP LAMP (CHMSL)**
-![image](./img/chapter_11/chmsl.JPG)
+![image](./img/chapter_11/chmsl.jpg)
 * One red light mounted on the vehicle centerline facing rearward, activated with brake lights.
 
 **TAIL, STOP, PARK & TURN-SIGNAL LAMPS**
@@ -640,13 +640,13 @@ This is applied at centerline and at the corners. To pass the tests the bumper p
 The relationship of the body and underbody components to the ground should be appropriate to the use of the vehicle.Road-going passenger cars are set up to be driven without contact to the ground when fully loaded. Off-road vehicles will need to be raised according to their intended capability, which may also include being driven through water. Some sports cars can be designed. with compromised ground clearance to improve aerodynamics, but the owners will need to accept the limitations of their vehicle. in some situations
 
 * The minimum ground clearance dimensions shown are set by various governments to determine that the vehicle is suitable for off-road use.
-![image](./img/chapter_11/groundclearancesuv.JPG)
+![image](./img/chapter_11/groundclearancesuv.jpg)
 
 * These angles are quite low and are examples taken from typical products at curb attitude. Some specialty sports cars may be lower.
-![image](./img/chapter_11/groundclearancesedan.JPG)
+![image](./img/chapter_11/groundclearancesedan.jpg)
 
 Note:See the SAE J689 for ground-clearance recommendations.These are measured with the vehicle at compressed suspension attitudes
-![image](./img/chapter_11/fullratedgroundline.JPG)
+![image](./img/chapter_11/fullratedgroundline.jpg)
 
 ## Section 11.10 Glazing
 

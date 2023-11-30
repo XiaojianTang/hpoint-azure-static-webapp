@@ -134,7 +134,7 @@ Working in a similar fashion to the driver's knee blocker, it utilizes the glove
 
 The steering wheel is set up to the driver as shown in the illustration. There are several additional reference dimensions, which are often used including the distance between the steering wheel and the driver's torso center line and H Point height
 
-![image](./img/chapter_07/steeringwheelsetup.JPG)
+![image](./img/chapter_07/steeringwheelsetup.jpg)
 
 **Cluster Visibility**
 Surfaces swept from the 95th percentile eye ellipsoids through the steering wheel rim.
@@ -162,7 +162,7 @@ SAE J287 reach envelope surface created between 400mm outboard of the driver and
 
 The passive restraint systems are designed to protect the front occupants in a high-speed frontal and side impact, even if they are not wearing seat belts. Notice that the momentum of the driver causes the manikin to slide forward until the knees hit the knee blocker on the instrument panel. The air bag deploys in a split second to cushion the impact and protect the driver from hitting the steering wheel. The passenger side air bag deploys from either the top or rear of the instrument panel in a similar fashion. Side curtain & seat bolster ai bags also deploy from the side rail and seat cushions to protect the driver's head and torso in side impacts.
 
-![image](./img/chapter_07/airbagdeploy.JPG)
+![image](./img/chapter_07/airbagdeploy.jpg)
 
 **Front Passenger Airbag**
 Deployed from the top of the instrument panel
@@ -181,7 +181,7 @@ Most car seat cushions are made from cloth or leather-covered foam, supported by
 
 Establishing a relationship between the H-point and the seat is important but can be difficult to control. The seat cushion foam and occupant flesh combined will compress about 50mm, so the seat should be drawn intruding into the occupant. After the seat has been manufactured, the 3D H-point machine(SAE J826, 76kg) can be placed to check the accuracy of the final H-point location.
 
-![image](./img/chapter_07/seatcontour.JPG)
+![image](./img/chapter_07/seatcontour.jpg)
 
 **SAE H-Point Machine**
 Accurately checks the H-Point location by compressing the seat cushions to the design intent profile.

@@ -11,7 +11,7 @@ author:
   link: https://github.com/xugaoyi
 ---
 # Chapter 9 Wheels & Tires
-![image](./img/chapter_09/chapter09cover.JPG)
+![image](./img/chapter_09/chapter09cover.jpg)
 >“The correct wheel and tire choice is not only critical to performance, but it is one of the few mechanical assemblies in the package that becomes a significant design element. In addition, their relationship to the body can make or break a great design."
 
 ## Section 9.1 Introduction to Wheels & Tires
@@ -36,7 +36,7 @@ Styling also plays a big part in wheel and tire size so getting the wheel diamet
 
 ### TIRE SIDEWALL HEIGHTS & PROFILES
 
-![image](./img/chapter_09/tiresidewallheight.JPG)
+![image](./img/chapter_09/tiresidewallheight.jpg)
 
 **Truck & SUV Tire Profile**
 Vehicles that are designed to carry heav. loads or travel over rough terrain require a taller sidewall to distribute the load an protect the rim from rock damage. The drawback of a taller aspect ratio is sidewall flex that will be detrimental to handling but will improve ride comfort.
@@ -47,12 +47,12 @@ For cars that require a comfortable ride, an average sidewall height is advisabl
 **Sports Car Tire Profile**
 Performance cars will sacrifice comfort to improve cornering capability. The lo profile tire reduces side wall deflection and allows for a larger diameter wheel which provides room for a larger brake rotor, if required. It also improves the exterior appearance. A drawback is that the minimized sidewall height leaves the wheel rim vulnerable to damage from curbs and potholes.Also, the total weight of tire and rim will be higher, which increases the unsprung weight. This will counter against the handling benefits.
 
-![image](./img/chapter_09/tires.JPG)
+![image](./img/chapter_09/tires.jpg)
 
 **Wheel Flange Diameters**
 The flange diameter represents the actual visible wheel sizes. Note: the rim diameter (measured in inches) is 30-35mm smaller than the flange diameter.This difference is shown in this chart.
 
-![image](./img/chapter_09/wheelflangetires.JPG)
+![image](./img/chapter_09/wheelflangetires.jpg)
 
 ### TYPICAL TIRE OUTSIDE DIAMETERS
 As previously mentioned, the tire diameters and locations are one of the first elements to be considered and will always feature in the early design sketches.Below are example diameters that can be referenced.
@@ -93,7 +93,7 @@ Steering objectives should be addressed at an early stage of the. packaging proc
 
 The two factors that control the turn circle are the wheelbase and the turn angle. Long-wheelbase vehicles will require a. greater turn angle. This is often made possible by the. Iongitudinal powertrain layout which allows the front frame rails to be moved inboard. Trucks with an extremely long wheelbase. may also require the rear wheels to steer to get the turn circle tc an acceptable diameter.
 
-![image](./img/chapter_09/turncircle.JPG)
+![image](./img/chapter_09/turncircle.jpg)
 
 *Turn circles are usually about 10 met for small cars and 12 meters for large. cars.Large trucks and limosines with long wheelbases may have turn circl up to 15 meters. To achieve these. diameters the front wheel turn. angle will be approximately 30°.*
 
@@ -114,7 +114,7 @@ Many customers want a full-size spare, and if the vehicle has a large tire O.D.,
 
 Vehicles with higher floors (minivans and trucks) may package the spare further forward under the passenger compartment floor. SUVs often mount the spare on the rear swing gate.
 
-![image](./img/chapter_09/sparetire.JPG)
+![image](./img/chapter_09/sparetire.jpg)
 
 ## Section 9.5 Tire Coverage
 
@@ -126,11 +126,11 @@ The opening between the tire profile and the wheel arch will vary greatly depend
 
 
 **TRUCKS & sUVS**
-![image](./img/chapter_09/tirecoveragetrucksuvs.JPG)
+![image](./img/chapter_09/tirecoveragetrucksuvs.jpg)
 Suspension will have long travel (125-150mm+) and if a solid axle type is used the tire will move up and down. vertically without camber change when the vehicle is. loaded.Because of this, the tire sidewall will be set in from the body and have a large open space at the top of the tire.
 
 **PASSENGER CARS**
-![image](./img/chapter_09/tirecoveragepassengercars.JPG)
+![image](./img/chapter_09/tirecoveragepassengercars.jpg)
 These will have less travel (100-120mm) and often employ suspension systems that cause camber change. The. relationship between tire and body can be reduced substantially in these cases. If trailing arm or McPherson strut systems are used, the tire will need to be set in more..
 
 **SPORTS CARS**

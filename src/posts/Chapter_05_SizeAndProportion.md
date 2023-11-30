@@ -12,7 +12,7 @@ author:
 ---
 # Chapter 5 Size & Proportion
 
-![image](./img/chapter_05/chapter05cover.JPG)
+![image](./img/chapter_05/chapter05cover.jpg)
 
 ## Section 5.1 Introduction 
 
@@ -88,7 +88,7 @@ The manikins are a consistent component in each package so the outlines of a con
 
 The next chapter looks at the occupant geometry and packaging, this should be studied to better understand how the manikins can be utilized to accurately scale each concept.
 
-![image](./img/chapter_05/sizeing.JPG)
+![image](./img/chapter_05/sizeing.jpg)
 
 ## Section 5.2 Classification by Size
 
@@ -110,7 +110,7 @@ Before starting the project, try to understand the objectives from the customer,
 
 ### VEHICLE SEGMENTATION
 
-![image](./img/chapter_05/segmentation.JPG)
+![image](./img/chapter_05/segmentation.jpg)
 
 Vehicle segmentation can be broken up by several factors including: weight, size,. function, cost and speed. Various groups will determine segments to suit their objectives.
 
@@ -134,24 +134,24 @@ The maximum overall length may be a project goal established to ensure the vehic
 
 **Front Engine - FWD**
 * The front overhang and spindle is set up by the driverhaft location.
-![image](./img/chapter_05/fwd.JPG)
+![image](./img/chapter_05/fwd.jpg)
 * The wheel base is set up efficiently around the passenger location.
 
 **Front Engine - RWD**
 * The front wheel is set forward to imporve approach angle and minimize the effects of a heavy load on the steering.
-![image](./img/chapter_05/rwdpickup.JPG)
+![image](./img/chapter_05/rwdpickup.jpg)
 * Bed length is determined by function. They range from 850 to 2500mm.
 * The rear wheel location is set close to the middle of the bed for ideal load distribution and ramp over.
 
 **Front Engine - RWD**
 * RWD/FWD The front wheel is set forward to allow the driver to be located in a forward location.
-![image](./img/chapter_05/rwdvan.JPG)
+![image](./img/chapter_05/rwdvan.jpg)
 * Rear cargo bay length is determined by functional requirements.
 * The rear wheel location is set behind the side load door which is designed to allow specific items to pass through, which are usually over 1000mm.
 
 **Rear/Mid Engine - RWD**
 * The front wheel is positioned to establish perfect weight distribution.
-![image](./img/chapter_05/rwdmidengine.JPG)
+![image](./img/chapter_05/rwdmidengine.jpg)
 * The engine transmission fuel tank and crush space are all located behind the driver.
 * The rear wheel is lined up with the driveshaft location.
 

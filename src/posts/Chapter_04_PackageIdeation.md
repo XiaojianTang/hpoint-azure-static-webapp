@@ -42,7 +42,7 @@ As stated before, the process can be started by sketching the basic proportions 
 
 mid rear engine"layout, both logitudinal and transverse orientation.Another series of sketches may be created to look at front engine and others for electric drive. More ideation studies may focus on one or three passenger layouts and perhaps some cargo storage space.Ideally each designer will sketch dozens of basic concept drawings during the early stages of the project, exploring every possibility.
 
-![image](./img/chapter_04/seriessketchs.JPG)
+![image](./img/chapter_04/seriessketchs.jpg)
 
 Traditional car shapes are engrained in our minds, but it's important to understand that some of the great, classic designs that we all know and love were created over a new, innovative package that lead to a new trend in automotive design.For example, if a new concept is powered by an electric motor it may not need a traditional hood or deck and the designer may need to get used to that idea before studyir new and unusual proportions. It's easy to jump to conclusions at the start of a project, relying on paradigms that have been applied on previous projects and walking backwards into the future. Make good use of this phase of the project and don't hold back. Once you're deeper into a program there may not be an opportunity to return to this phase.Don't worry if some of the ideas appear strange and unorthodox; what appears to be a bad idea during brainstorming can often lead to the development of a really good one later. It's all about thinking outside of the box" at this stage.
 

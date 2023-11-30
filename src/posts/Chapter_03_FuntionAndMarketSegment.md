@@ -12,7 +12,7 @@ author:
 ---
 # Chapter 3 Function & Market Seqments
 
-![image](./img/chapter_03/chapter3cover.JPG)
+![image](./img/chapter_03/chapter3cover.jpg)
 
 Every vehicle needs to serve a purpose otherwise no one would buy it. The market segments are set up by function and the vehicle architecture is designed to meet the needs of the customers, manufacturers andthe environment.
 
@@ -46,7 +46,7 @@ The considerations described on the next page represent the factors that will in
 
 These examples ot current production car rear occupant head environments are often the cause of tension within a design. team. Clearly the headroom dimensions illustrated are not. good, but are typical in many 2+2 sports coupes and SUVs. For. the packaging and styling teams to agree on an acceptable roof profile, the concept objectives and competitive market examples need to be clearly understood
 
-![image](./img/chapter_03/typicalcompromise.JPG "Typical production vehicles with compromised rear occupant environments")
+![image](./img/chapter_03/typicalcompromise.jpg "Typical production vehicles with compromised rear occupant environments")
 
 ### REQUIREMENT SUBJECTS TO CONSIDER
 The lists below contains the key factors that should be considered before the functional objectives are set up. 
@@ -78,7 +78,7 @@ No vehicle is ever designed in isolation, so it is important to look at other ve
 
 This graphichelps tovisualizewhere the concept falls within the manufac- turer's showroom. It can also be used to position the concept against the competition and highlight areas of opportunity.
 
-![image](./img/chapter_03/positioning.JPG)
+![image](./img/chapter_03/positioning.jpg)
 
 The example graph shows on-road versus off-road vehicles.The car and SUVs are positioned from one extreme to another from top to bottom. From left to right is economy vs prestige, so the vehicle can. slide across the page according to its cost. Other subjects can be. pulled from the list of factors on page 69 to make up several charts,. ensuring that the concept does not clash with other products in the showroom. 
 
@@ -92,7 +92,7 @@ This legislation might range from specific design criteria and taxation policies
 
 For a variety of reasons, most governments want to control the types of vehicles that use their nation's infrastructure. In addition, there are many other organizations that have vested interests in classifying vehicles. Consumer groups need to test and compare cars and trucks and organize their data Insurance companies need to assess the risk for different types of products. Local authorities may apply operating limits on certain types of vehicles
 
-![image](./img/chapter_03/cars.JPG)
+![image](./img/chapter_03/cars.jpg)
 
 
 The vehicle design can be affected by factors that range from crash requirements and overall dimensional. limitations, to the number of wheels and lighting. specifications. Taxation classes are often determined by. engine size and power output but may also be affected by overall size, value and the number of wheels.
@@ -101,7 +101,7 @@ Use regulations are usuallyset up to permit vehicles with specific functions to 
 
 A good example is the off-road vehicle, which USA regulations allow to be designed without the same bumper regulations that apply to cars. This enables then to achieve good approach and departure angles in extreme off-road conditions.Neighborhood electric vehicles are allowed to drive on the main roads without passing 40mph crash regulations. This helps to reduce their size, weight and cost, effectively reducing their fuel consumption and emissions 
 
-![image](./img/chapter_03/trucks.JPG)
+![image](./img/chapter_03/trucks.jpg)
 
 
 ### MICRO CARS

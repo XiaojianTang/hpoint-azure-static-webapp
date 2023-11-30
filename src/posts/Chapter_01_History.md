@@ -125,7 +125,7 @@ The'50s &'60s were glorious years for the US automobile. industry with annual pr
 **PASSENGER PRIORITY**
 Sir Alec Issigonis was asked to create a respectable small car to help Britain get through the Suez oil crisis. His answer was the Mini, which remained in production for 40 years, with over 5 million sold. The transverse engine with FWD and 10 inch wheels created a "passenger priority"package which has been adopted by almost every high-volume car manufacturer in the world
 
-![image](./img/chapter_01/bmcmini.JPG "1959 BMC MINI (ENGLAND)")
+![image](./img/chapter_01/bmcmini.jpg "1959 BMC MINI (ENGLAND)")
 *Probably one of the most influential cars of all time, its innovative package layout can be seen in hundreds of millions of vehicles worldwide.Because of its relative complexity, the Mini made almost no profit for the manufacturer, but the new architecture allowed Issigonis to design a revolutionary exterior.*
 
 **MID-ENGINE LAYOUT**
@@ -191,7 +191,7 @@ US legislation allows certain types of vehicles to drive on public roads (35mph 
 **NOSTALGIA**
 Sometimes the answer to the future is the past. The designe at Chrysler were asked to create a small car that Americans would want to buy. The PT Cruiser's architecture was designed to provide utility and a secure driving environment with a high eye point. The exterior form was "muscular" with proportions reminiscent of a previous era
 
-![image](./img/chapter_01/chryslerptcruiser.JPG "2012 CHRYSLER PT CRUISER (USA)")
+![image](./img/chapter_01/chryslerptcruiser.jpg "2012 CHRYSLER PT CRUISER (USA)")
 *To meet government CAFE requirements, manufacturers need t build small cars to offset the poor fuel consumption of their highly profitable large cars and trucks. The PT sold successfully for 10 years with only minor updates due to it's "classic" look.*
 
 **THE NEXT STEP**

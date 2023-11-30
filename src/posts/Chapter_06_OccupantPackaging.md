@@ -11,7 +11,7 @@ author:
   link: https://github.com/xugaoyi
 ---
 # Chapter 6 Occupant Packaging
-![image](./img/chapter_06/chapter6cover.JPG)
+![image](./img/chapter_06/chapter6cover.jpg)
 
 ## Section 6.1 Driver Introduction
 It cannot be overemphasized how critical the driver and passenger packaging is to the overall architecture. The occupants directly or indirectly influence every aspect of the vehicle's design.
@@ -20,7 +20,7 @@ It is often said that cars and trucks should be designed from the inside out. Th
 This may be shown in several locations in the package drawings (because of seat adjustment) but the primary location is referred to as the Seating Reference Point or SgRP. Almost every element of the package will be influenced by its location and if modified, the effects may be seen throughout the vehicle.
 Each car company will use several manikins that suit their purpose. One of the most popular occupant packaging tools is the SAE 95th percentile male manikin, which is ideal for setting up the initial interior space, ensuring that the vast majority of the global population will fit into the occupant package envelope.
 
-![image](./img/chapter_06/populationpercentage.JPG "population percentiles")
+![image](./img/chapter_06/populationpercentage.jpg "population percentiles")
 
 ### GEOMETRY OF THE 95TH PERCENTILE MALE DRIVER
 
@@ -128,7 +128,7 @@ The rear occupant size and geometry is similar to the driver, but because the re
 
 The expectation for the rear occupant package in two door cars is often less than for four door cars, so couple, legroom headroom, ingress and egress are often compromised to allow the designers to create the desired roof profile. Finding the appropriate amount of compromise is always subjective and making the right decisions can be tough.
 
-![image](./img/chapter_06/occupanttwodoor.JPG)
+![image](./img/chapter_06/occupanttwodoor.jpg)
 
 The packages on this page shows several two door cars tha are in production and clearly illustrate the compromised accommodation. Often smaller manikins will be included in the drawings to determine what size (percentile) person will fit comfortably in the rear compartment, but the 95th. percentile male manikin should be shown to communicate how the space relates to other vehicles. As always, it's important to benchmark existing products to help determing how much the key dimensions can be reduced.
 
@@ -137,7 +137,7 @@ Some creative packaging is often required to increase the rear headroom. For exa
 ### REAR OCCUPANTS - FOUR DOOR CARS
 Compromise is usually unacceptable in the rear compartment of four door family passenger cars.
 
-![image](./img/chapter_06/occupantfourdoor.JPG)
+![image](./img/chapter_06/occupantfourdoor.jpg)
 
 Generally the headroom will be no less than 985mm and the couple distance on the smallest cars will be a least 750mm. As the car gets larger, the headroom wil increase a small amount but shouldn't be unnecessarily large because a high roof will increase drag and raise the center of gravity. The car may get wider and provide more hip and shoulder room and also accommodate a fifth passenger, but again the width needs to be controlled to the right dimension to minimize drag, weight and ease of parking.
 
