@@ -12,7 +12,7 @@ author:
 ---
 # Chapter 10 Suspension & Chassis
 
-![image](../page_210/%5B71%2C%20575%2C%201981%2C%201483%5D_0.jpg)
+![image](./img/chapter_10/chapter10cover.jpg)
 >"Suspension systems are complex Fortunately most designers do not have to fully understand how to set them up, but it is important to know why a particular system is chosen and how they may affect the package and vehicle proportions."
 
 ## Section 10.1 Introduction
