@@ -5,8 +5,6 @@ permalink: /pages/chapter1/
 ---
 # Chapter 1 History
 
-![image](./img/chapter_01/mini.JPG)
-
 Probably the best way to understand the role of packaging in the design process is to look at how and why vehicle proportions have changed over time.
 
 The next few pages provide a concise overview of some of the key milestone vehicles from 140 years of automotive history and the events that influenced them.
