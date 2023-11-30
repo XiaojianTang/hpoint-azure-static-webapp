@@ -3,3 +3,8 @@ node_modules/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/dist/
+
+node_modules/
+hpoint-azure-static-webapp/.vuepress/.cache/
+hpoint-azure-static-webapp/.vuepress/.temp/
+hpoint-azure-static-webapp/.vuepress/dist/

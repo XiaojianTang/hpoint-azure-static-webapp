@@ -4,8 +4,7 @@
   "description": "a online ebook of H-POINT, create by vuepress-theme-hope",
   "license": "MIT",
   "type": "module",
-  "scripts": {
-    "build:azure": "vuepress build src",
+  "scripts": {    
     "docs:build": "vuepress build src",
     "docs:clean-dev": "vuepress dev src --clean-cache",
     "docs:dev": "vuepress dev src",
