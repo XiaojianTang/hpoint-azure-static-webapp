@@ -1,5 +1,4 @@
 <template><div><h1 id="chapter-1-history" tabindex="-1"><a class="header-anchor" href="#chapter-1-history" aria-hidden="true">#</a> Chapter 1 History</h1>
-<figure><img src="@source/posts/img/chapter_01/mini.jpg" alt="image" tabindex="0" loading="lazy"><figcaption>image</figcaption></figure>
 <p>Probably the best way to understand the role of packaging in the design process is to look at how and why vehicle proportions have changed over time.</p>
 <p>The next few pages provide a concise overview of some of the key milestone vehicles from 140 years of automotive history and the events that influenced them.</p>
 <p>Note that many of the timeless cars and trucks shown were created entirely by their architects &quot;Fashion dates, but logic is timeless&quot; but when styling or emotion became the. Sir Alec Issigonis - Vehicle architect driving factor for the concepts, their lifespan and designer of the 1959BMC Mini was often short.</p>
