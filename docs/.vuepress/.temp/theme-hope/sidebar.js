@@ -1,1 +1,0 @@
-export const sidebarData = {"/zh/posts/":[],"/posts/":["/pages/chapter00/","/pages/chapter1/","/pages/chapter2/","/pages/chapter3/","/pages/33c87c/","/pages/264ffa/","/pages/33d19a/","/pages/2791af/","/pages/bc052d/","/pages/041c45/","/pages/03bbfc/","/pages/8b9a52/","/pages/3f5dc7/","/pages/51f91b/"]};

@@ -1,7 +1,7 @@
 ---
 containerClass: home
 home: true
-title: 主页
+title: HOME
 icon: home
 bgImage : /assets/img/chapter_00/cover_orange.svg
 heroFullScreen: true
