@@ -1,16 +1,10 @@
 ---
 title: Chapter_02_GettingStarted
 date: 2023-11-29 17:33:54
-permalink: /pages/ab5e0c/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter2/
 ---
 # Chapter 2 Getting Started
+
 ![image](./img/chapter_02/chapter2cover.jpg)
 
 ## Section 2.1 Segments & Systems
@@ -27,8 +21,8 @@ Every package is comprised of the same group of systems (illustrated below).Each
 
 ![image](./img/chapter_02/system.jpg)
 
-
 ### ANATOMY OF THE PASSENGER CAR PACKAGE
+
 The elements in the package will vary from concept to concept, but the items shown in these illustrations feature in most vehicles.Each of these elements will need to be studied by the studio engineering team during the development of the project to provide a high level of confidence in the vehicle's design..
 
 ![image](./img/chapter_02/anatomy1.jpg)
@@ -44,11 +38,13 @@ The first step in the product development cycle is the produci plan, which is us
 ![image](./img/chapter_02/customerneed.jpg "The process begins and ends with the customer's needs, wants and aspirations.'")
 
 ### THE ADVANCED CONCEPT DESIGN PROCESS
+
 This stage usually takes between 6 months and a year. This. mindset is different than the production phase, much looser and more progressive
 
 ![image](./img/chapter_02/advancedprocess.jpg)
 
-### THE PRODUCTION DESIGN PROCESS 
+### THE PRODUCTION DESIGN PROCESS
+
 This can be a two to four-year timeline with usually one yea in the studio. The final product must be 100% feasible, meeting all requirements for manufacturing and marketing.
 
 ![image](./img/chapter_02/productionprocess.jpg)
@@ -56,9 +52,9 @@ This can be a two to four-year timeline with usually one yea in the studio. The 
 *The advanced concept is handed to a production-design team. This group will develop the exterior and interior surfaces over a package. that is 100% feasible for production and meets all of the cost targets. as well as the needs of the intended markets. After testing, a few. minor design changes may be required.*
 
 ### STEP-BY-STEP PROCESS
+
 ![image](./img/chapter_02/stepbystepprocess.jpg)
 The initial package should be kept as simple as possible.Only a few elements are needed to set up the basic exterior hard points.Just like a design ideation sketch, do not try to include every detail or solve every problem. The main objective is to get started.Fortunately, the bulk of a vehicle's proportions are established by only a few elements, namely: the occupants,. powertrain, tires, cargo storage, ground clearance and crash protection systems. These can be put together in a logical order, but expect to iterate the design continually. Try to think about which components will drive the package and which will be. subordinate and why. As each system is added, it is going to affect the elements already located in the package, so do not be. afraid to start piecing the package together and making adjustments as the concept develops. Always be sure to reference the functional objectives that are driving the architecture. Usually, if you stick to sound logic, the package is quite simple to build and you will be able to defend the layout if it is ever challenged. The examples, on the following nine pages, show how differen types of vehicles can be approached with the same fundamental process even though they require totally different package solutions. Before creating the package geometry, loosely sketch out the package and arrange the major components based on. the functional objectives
-
 
 **STEP 1 Package & Design Ideation**
 
@@ -82,8 +78,6 @@ Add the rear occupants if there are any. Again, use  95th percentile manikin wit
 Select and position the powertrain (engine, transmission and final drive). The choice of system may have a dramatic effect on the proportions. Choose it based on the amount and type of power required and also think about which wheels will be used to feed the power to the ground.. See Chapter 8 for more information on powertrain packaging.
 
 ![image](./img/chapter_02/step4powertrain.jpg)
-
-
 
 **STEP 5 Set up the occupants' lateral location**
 
@@ -129,7 +123,6 @@ See Chapters 6 & 10 for more information on body architecture and interiors.
 
 ![image](./img/chapter_02/step10sections.jpg)
 
-
 ## Section 2.3 Sections
 
 A large portion of the advanced package and the body is. developed in five"Sectional Views" (multiple sections in one view which are cut through the major elements of the package i.e., the hip points (H-points), spindles, powertrain, fuel tank and the. cargo compartment.As the package progresses, more sections will be created around the vehicle, but to get the initial concept started, it is important to keep the studies simple.
@@ -140,8 +133,9 @@ The main objective here is to establish some ot the main hard points, so that th
 
 **DESIGNING WITH SECTIONS**
 
-The five main sectional views are cut. through the major elements of the package. Because most vehicles have. a lot of curvature in their surfaces, multiple sections are put in each view to form a simplified picture of each. zone of the package. For example, in the side-view section A-A, the vehicle outline is shown at the Y0 (Y-zero)* centerline. The occupants are also shown in this view with a section through the headliner at the occupant. centerline.The headroom is cross- referenced and accurately illustrated in the rear-view sections. 
->The Y-grid plane runs along the centerline of the car. Anything on- center is therefore located at Y0
+The five main sectional views are cut. through the major elements of the package. Because most vehicles have. a lot of curvature in their surfaces, multiple sections are put in each view to form a simplified picture of each. zone of the package. For example, in the side-view section A-A, the vehicle outline is shown at the Y0 (Y-zero)* centerline. The occupants are also shown in this view with a section through the headliner at the occupant. centerline.The headroom is cross- referenced and accurately illustrated in the rear-view sections.
+
+> The Y-grid plane runs along the centerline of the car. Anything on- center is therefore located at Y0
 
 **Sectional View A-A**
 ![image](./img/chapter_02/sectionaa.jpg "Sectional View A-A")
@@ -167,7 +161,8 @@ The five main sectional views are cut. through the major elements of the package
 
 The package is built in a 1o0mm three-dimensional grid, which becomes the master vehicle grid system throughout the project's life. This XYZ grid is created by the intersections of a series of horizontal, longitudinal and lateral planes. The grid reference system. is used as a reference between the CAD (computer-aided design) models (or drawings) and the clay models. The location of the vehicle components and section cutting planes are also referenced to the grid
 ![image](./img/chapter_02/grids.jpg)
->The GRID ORIGIN POINT should be located out in front of the bumper and below the ground. Once created, it will always remain in the same place relative to the package. If the ground line is modified and pushed away from the body or the front fascia is moved forward, they will not move to a "minus" grid coordinate.
+
+> The GRID ORIGIN POINT should be located out in front of the bumper and below the ground. Once created, it will always remain in the same place relative to the package. If the ground line is modified and pushed away from the body or the front fascia is moved forward, they will not move to a "minus" grid coordinate.
 
 **GROUND PLANES (LINES)**
 
@@ -184,9 +179,9 @@ Each require their own set of ground lines. There are several reasons to create 
 
 As the vehicle is loaded, the ground line will move closer to the body. The three ground lines or attitudes shown here are:
 
-**1. Curb.** No passengers, full fluids. 
-**2. Full Rated.** Fully loaded to the gross vehicle weight (GVW). 
-**3. Full Jounce.** Fully compressed suspension. 
+**1. Curb.** No passengers, full fluids.
+**2. Full Rated.** Fully loaded to the gross vehicle weight (GVW).
+**3. Full Jounce.** Fully compressed suspension.
 
 These are the three main attitudes used in the design process to check that the vehicle is meeting all the height and clearance requirements.
 
@@ -199,6 +194,7 @@ These are the three main attitudes used in the design process to check that the 
 *Vehicles with on-road and off-road packages will usually have two or more suspension settings to improve the vehicle's performance in its intended environment*
 
 ## Section 2.5 Hardpoints
+
 A primary function ot an automotive studio engineer is to teed the design team with hardpoints, which are generated from the package.The views below illustrate the main hardpoints that are required to start a clay or CAD model.
 
 ![image](./img/chapter_02/hardpoints1.jpg)
@@ -214,7 +210,7 @@ The front spindle height is. determined by the static load radius of the tire. L
 **3. CHINHEIGHT**
 The chin should clear a 162mm high parking block.A 10 approach-angle line (when the vehicle is fully loaded) is recommended for passenger cars.Above 28o is required for off road vehicles
 
-**4. FRONT BUMPER LOCATION** 
+**4. FRONT BUMPER LOCATION**
 For passenger cars, the bumper system height must cover the "bumper band" which is generally. mandated to be from 406mm to 508mm above the ground.The longitudinal location must provide enough crush space in front of the occupant's feet to meet high speed (40mph) frontal impact requirements. Any object which will not compress on impact-i.e., the engine. transmission, steering rack, etc.-is added to this dimension. The offset of the bumper impact surface to the body and lamps will depeng. on the collision requirements and the manufacturing cost limitations of the system. To meet low-speed impact requirements, bumpers. with average cost and weight will require about 50-70mm of offset, but it is worth benchmarking vehicles with smaller offsets. The front fascia profile should be shaped to meet pedestrian protection safety requirements.
 
 **5. LEADING EDGE**
@@ -246,7 +242,7 @@ Most vehicles will have some cargo storage; for. some it is a high priority.The 
 **13. REAR BUMPER LOCATION**
 Similar height requirements to the frq bumper but with additional consideration for load height variation whi is greater at the rear. Rear impact requirements influence the rearward Iocation of the bumper beam. The height of the fascia panel (bumper skin molding) will affect the lift over height for loading cargo.
 
-**14. BODY REAR LOWER** (Departure angle). 
+**14. BODY REAR LOWER** (Departure angle).
 Can be less than the approach angle (20 for off-road vehicles). Often the lowest parts of the car behind the rear wheels are the exhaust system and spare tire.. 15. REAR SPINDLE The track and height are set up in a similar way to the front. The longitudinal location is normally as close to the rear occupant as the tire envelope will allow. In the case of a cargo truck or minivan, weight distribution will be a factor.
 
 ![image](./img/chapter_02/hardpointlateral.jpg)
@@ -276,7 +272,7 @@ The contents of each board will depend on the story that you are telling and the
 
 ![image](./img/chapter_02/packagedrawing.jpg)
 
-----
+---
 
 ![image](./img/chapter_02/packagedrawingexample1.jpg)
 ![image](./img/chapter_02/packagedrawingexample2.jpg)

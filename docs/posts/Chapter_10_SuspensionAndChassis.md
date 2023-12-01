@@ -1,19 +1,13 @@
 ---
 title: Chapter_10_SuspensionAndChassis
 date: 2023-11-29 17:33:54
-permalink: /pages/03bbfc/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter10/
 ---
 # Chapter 10 Suspension & Chassis
 
 ![image](./img/chapter_10/chapter10cover.jpg)
->"Suspension systems are complex Fortunately most designers do not have to fully understand how to set them up, but it is important to know why a particular system is chosen and how they may affect the package and vehicle proportions."
+
+> "Suspension systems are complex Fortunately most designers do not have to fully understand how to set them up, but it is important to know why a particular system is chosen and how they may affect the package and vehicle proportions."
 
 ## Section 10.1 Introduction
 
@@ -61,8 +55,8 @@ Generally speaking, the non-independent systems are used on vehicles that carry 
 
 ![image](./img/chapter_10/suspensiontypes.jpg)
 
-
 ### SOLID AXLE SUSPENSIONS (LIVE & BEAM)
+
 ![image](./img/chapter_10/solidaxlesuspension.jpg)
 Often used on utility vehicles that are designed to carry heavy loads.Most commonly used on rear suspension, but occasionally on the front.“Live axles contain the final drive system (differential and driveshafts). Beam axles are applied if drive is not required.The advantages include low cost, strength, long articulation, efficient packaging, consistent ground clearance and adjustability. The main drawback is compromised handling due to the amount of unsprung weight.
 
@@ -74,8 +68,6 @@ This system will often be applied to extreme SUVs, providing 4WD, strength and a
 **SOLID LIVE AXLE WITH COIL SPRINGS**
 ![image](./img/chapter_10/solidwithcoilsprings.jpg)
 
-
-
 **SOLID LIVE AXLE WITH LEAF SPRINGS**
 ![image](./img/chapter_10/solidlivewithleaf.jpg)
 
@@ -83,6 +75,7 @@ This system will often be applied to extreme SUVs, providing 4WD, strength and a
 ![image](./img/chapter_10/solidbeamwithleaf.jpg)
 
 ### TRAILING ARM SUSPENSIONS
+
 ![image](./img/chapter_10/trailingarm.jpg)
 Often used on small cars because it packages efficiently in light vehicles with short rear overhangs and most. configurations provide space for the spare tire. This system works well when loaded because the camber change is very limited. The swing arms are often linked by a twist beam which can be located along the pivot axis or the spindle centerline. These reduce body roll and the atter will help the tires remain vertical during cornering.
 
@@ -102,6 +95,7 @@ Semi trailing arms create a slight camber change during cornering which can opti
 ![image](./img/chapter_10/semitrailingarm.jpg)
 
 ### STRUT SUSPENSION SYSTEMS
+
 ![image](./img/chapter_10/strutsuspension.jpg)
 
 **STRUT SUSPENSION SYSTEMS Cont.**
@@ -116,10 +110,11 @@ Very common front suspension on passenger cars. McPherson struts incorporate the
 Ihis system can be very simple, inexpensive and lightweight (as shown).It also packages very efficiently It is ideal for lightweight, entry-level sports cars. More robust versions can be applied to larger, more capable cars and SUVs. In these applications the hub may be attached to the control arm rather than the strut.
 
 ### SLA (SHORT-LONG ARM)
+
 ![image](./img/chapter_10/shortlongarm.jpg)
 These are the most sophisticated systems, mainly used on high- performance and luxury cars, at both front and rear. Trucks and SUVs often use the SLA (short and long arm) system for their front suspension.
 
-The geometry of the control arms is designed to control camber change to maintain each tire's contact patch as the body rolls during cornering. Packaging the inner pivots axis can be a challenge on some vehicles. 
+The geometry of the control arms is designed to control camber change to maintain each tire's contact patch as the body rolls during cornering. Packaging the inner pivots axis can be a challenge on some vehicles.
 
 Note that the upper control arm can be mounted in a low or high Iocation depending on the ideal attachment position and drive shaft configurations. Springs are usually coils but torsion bars and leaf springs can also be used to suit the application. On open-wheel race cars the coils are often mounted longitudinally inside the body to improve aerodynamics. These are actuated by a push rod and bell rank.
 ![image](./img/chapter_10/shortlongarm2.jpg)

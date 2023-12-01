@@ -1,18 +1,13 @@
 ---
 title: Chapter_09_WheelAndTires
 date: 2023-11-29 17:33:54
-permalink: /pages/041c45/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter9/
 ---
 # Chapter 9 Wheels & Tires
+
 ![image](./img/chapter_09/chapter09cover.jpg)
->“The correct wheel and tire choice is not only critical to performance, but it is one of the few mechanical assemblies in the package that becomes a significant design element. In addition, their relationship to the body can make or break a great design."
+
+> “The correct wheel and tire choice is not only critical to performance, but it is one of the few mechanical assemblies in the package that becomes a significant design element. In addition, their relationship to the body can make or break a great design."
 
 ## Section 9.1 Introduction to Wheels & Tires
 
@@ -55,6 +50,7 @@ The flange diameter represents the actual visible wheel sizes. Note: the rim dia
 ![image](./img/chapter_09/wheelflangetires.jpg)
 
 ### TYPICAL TIRE OUTSIDE DIAMETERS
+
 As previously mentioned, the tire diameters and locations are one of the first elements to be considered and will always feature in the early design sketches.Below are example diameters that can be referenced.
 
 Typically, the O.D.s can get larger as the vehicle size increase but there are many other factors to consider such as; interior cargo packaging, suspension travel and packaging, steering angles and overall vehicle proportions, for example.
@@ -81,7 +77,7 @@ size, so manufacturer's quidelines should be followed.
 
 Two types of steering systems are commonly used, these are rack and pinion, and recirculating ball. The steering mechanisms are Iocated just behind or forward of the front spindle, (creating front or rear steer). The steering wheel is directly linked to the mechanism through the input shafts or steering column, which is divided into several segments and angled to reduce steering-column movement in a frontal impact. Rack and pinion is the most common system, and works with most vehicles. Recirculating ball systems are usually applied when a lot of suspension articulation is required.
 
-The long track rods help to reduce "bump steer" (caused by the difference between the suspension and steering geometry) which results in the turn angle changing as the suspension travels in jounce or rebound. Below are three applications of the systems. Designers should note that the steering. mechanism attachment to the knuckle will affect the location of the brake caliper which is often used as a design element. 
+The long track rods help to reduce "bump steer" (caused by the difference between the suspension and steering geometry) which results in the turn angle changing as the suspension travels in jounce or rebound. Below are three applications of the systems. Designers should note that the steering. mechanism attachment to the knuckle will affect the location of the brake caliper which is often used as a design element.
 
 ![image](./img/chapter_09/steering.jpg)
 
@@ -123,7 +119,6 @@ European legislation requires that the tires must be inboard of the body work in
 ![image](./img/chapter_09/tirecoverage.jpg)
 
 The opening between the tire profile and the wheel arch will vary greatly depending on the function of the vehicle. This is mainly due to the geometry, jounce travel and tolerances built into each suspension system. Large openings and inset wheels are bad for aerodynamics and are not usually regarded as a desirable styling feature.
-
 
 **TRUCKS & sUVS**
 ![image](./img/chapter_09/tirecoveragetrucksuvs.jpg)

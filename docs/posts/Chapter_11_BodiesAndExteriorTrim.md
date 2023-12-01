@@ -1,19 +1,13 @@
 ---
 title: Chapter_11_BodiesAndExteriorTrim
 date: 2023-11-29 17:33:54
-permalink: /pages/8b9a52/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter11/
 ---
 # Chapter 11 Bodies & Exterior Trim
 
 ![image](./img/chapter_11/chapter11cover.jpg)
->“The body is a very complex system, which threads throughout the architecture, holding all the elements together. The package is developed in a series of sections cut through the body structure and doors."
+
+> “The body is a very complex system, which threads throughout the architecture, holding all the elements together. The package is developed in a series of sections cut through the body structure and doors."
 
 # Section 11.1 Introduction to Bodies
 
@@ -67,6 +61,7 @@ This type of construction is often used on pickup trucks and large. SUVs, helpin
 A high-strength steel truck frame that supports the unitary cab and bed assemblies mounted on top. This combination creates a structure. that is very tough and durable, albeit poor in torsional rigidity.
 
 ### TYPES OF BODY CONSTRUCTION - SPACE FRAMES
+
 ![image](./img/chapter_11/spaceframe2.jpg)
 Space frames are typically used for low-volume-production performance cars, where high stiffness, weight reduction and ow tooling investment are paramount. The space frame acts as the structural "skeleton" to which the mechanical components and outer, visible skin panels are attached.A space frar can be constructed from a variety or combination of materials such as steel tubes, aluminum extrusions or plastic composites.
 
@@ -85,6 +80,7 @@ In this space frame solution, high-strength steel on aluminum alloy tubing is we
 ![image](./img/chapter_11/anatomyofbodystructure.jpg)
 
 ### CRASHWORTHINESS
+
 ![image](./img/chapter_11/crashworthiness.jpg)
 
 Protecting the occupants from injury is the highest priority when designing a vehicle.
@@ -98,6 +94,7 @@ Many of the key elements of the crash structure feature frequently in the typica
 Note that many of the main structural elements such as the sills, rails and cross members are designed to be as straight as. possible. By being straight, they can manage very high. (compression) loads efficiently along their axes.
 
 ### EFFICIENT STRUCTURES
+
 ![image](./img/chapter_11/efficientstructure.jpg)
 **The front-end** structure is designed to crush at a specific rate to absorb energ. during a high speed impact.
 
@@ -123,7 +120,7 @@ The governing bodies of the three major car-manufacturing countries/continents- 
 
 These vary from the US regulations, so most American cars are designed to meet both sets of requirements. The Environmental Protection Agency (EPA) www.epa.gov also sets standards to help maintain and improve the environment One significant area controlled by the EPA is the fuel consumption of various types of vehicles
 
-**European Union (Eu)** Regulations are set by the European Commission (EC).These vary from the North American regulations, mainly due to geographic and economic concerns, which lead to greater traffic density.Visit www.unece.org . Various European national governments ha. also set rules to suit the requirements of their own country. Many of these rules were carried over from an earlier era. 
+**European Union (Eu)** Regulations are set by the European Commission (EC).These vary from the North American regulations, mainly due to geographic and economic concerns, which lead to greater traffic density.Visit www.unece.org . Various European national governments ha. also set rules to suit the requirements of their own country. Many of these rules were carried over from an earlier era.
 
 In addition to governmental legislation, organizations like the New Car Assessment Program (NCAP) serve to provide impartial crashworthiness information to customers. They conduct comprehensive crash tests and report to the consumer exactly how each vehicle performed. They issue a star rating to each model and most manufacturers strive to achieve the highest "5-star rating." Visit www.euroncap.com for more information.
 
@@ -211,6 +208,7 @@ Illustrating some of the various materials used in body and exterior trim compon
 ![image](./img/chapter_11/frbumpersection.jpg)
 
 ### TYPICAL SILL SECTIONS
+
 These two sill sections illustrate how various materials and manufacturing processes can be applied to a similar area of the body, affecting a key area of the package.
 
 **Stamped, spot welded steel panels**, part of a unibody structure.
@@ -248,7 +246,6 @@ Often appliedto minivans and commercial vans.Ideal for situations where an out s
 **Access Covers**
 For performance or race cars, good access to all of the powertrain and suspension components is important to allow quick adjustment to these systems Hinged or removable covers with side cut lines provide large open apertures.
 
-
 ![image](./img/chapter_11/doorhingetypes3.jpg)
 
 **Liftgate (Hatch )**
@@ -259,7 +256,6 @@ Used extensively on pickup trucks, tailgates are designed to remain dropped whil
 
 **Lift & Swing**
 Often applied to vehicles that carry thei spare wheel on the rear gate, making a lift gate impractical. Sealing the two-. piece closure is more complex than a single gate.
-
 
 ![image](./img/chapter_11/doorhingetypes4.jpg)
 
@@ -281,6 +277,7 @@ The three types of door construction shown below are typic to most production ca
 ![image](./img/chapter_11/sidedoors.jpg)
 
 ### BODY SIDE APERTURE DESIGN CRITERIA
+
 ![image](./img/chapter_11/aperturedesign.png)
 
 The door apertures will have a major influence on the exterior design. Some basic parameters need to be addressed before the design concept moves forward too far. Definitely, door feasibility should be very advanced before the full-size clay model is started. The size and shape of the door apertures will be affected by the following considerations:
@@ -356,7 +353,6 @@ Large two-door cars need long doors to help break up their proportions.The appro
 
 ![image](./img/chapter_11/cutline4.jpg)
 
-
 **REARWARDA PILLARS**
 In this example, the A pillar is pulled rearward in relation to the driver to improve cornering visibility.The front cut lines step forward to improve foot swing.
 
@@ -403,7 +399,8 @@ This van has a very tall driver height and posture. This situation is more forgi
 
 This example shows a forward-control driver package.Thes rare today because frontal impact regulations and expectati have become more demanding.Here the driver requires enough room to pass between the wheel house and the open door trim as he steps into the cab and swings into the seat. This ultimately pushes the driver quite a long way forward of the front spindle, leaving the feet vulnerable during a collision or the front overhang is extended.
 
-### DOOR AND DOOR APERTURE DESIGN 
+### DOOR AND DOOR APERTURE DESIGN
+
 The door apertures are developed through about nine typical. body sections. These are cut through the pillars, roof rails and sill at critical areas such as the hinge and latch locations.
 
 An "X" section through the H-point is used to set up the body- side profile through the roof rails, drop glass, door inner/outer. panels and the sill structure. This is a very important section in. the early stages of the package development.
@@ -435,6 +432,7 @@ It's worth taking time to set it up correctly because many othe elements such as
 This study shows how typical sections, cut through various elements around the. package, are used to set up the windshield aperture.Notice that elements of the body structurei.e.the header and cowl/plenum-are shown together with the interior trim and windshield. The engine and hood are also drawn and the section is completed with the inclusion of the driver manikin to check forward visibility.. The exterior shape and location of the top of the windshield is a particularly sensitive design element to the exterior designer.
 
 ### A PILLAR OBSCURATION CHECK
+
 ![image](./img/chapter_11/apillarobscuration1.jpg)
 
 Below is a basic outline of the pillar obscuration geometry studies,. illustrating how the pillar structure and trim are designed to meet specific obscuration parameters. These are usually set up in a computer system. Most designers will never have to execute these studies, but need to. understand that there are limitations on the size and location of the A pillars. The main objective for the A-pillar design is to create a strong. enough structure to meet roof crush targets but make it easy to see aroul it. A full description of the geometry and eye points (E1, E2, E3 & E4) set. can be found in the 77/649/ EC directive and SAE J1050 recommendatic
@@ -442,11 +440,12 @@ Below is a basic outline of the pillar obscuration geometry studies,. illustrati
 ![image](./img/chapter_11/apillarobscuration2.jpg)
 
 ### REARWARD VISIBILITY
+
 The regulations affecting rear visibility and the backlight aperture are not as strict as the windshield aperture. Mostly, they require an additional exterior mirror if visibility does not meet the regulations.
 
 ![image](./img/chapter_11/rearwardvisibility.jpg)
 
-Ultimately, the design is usually guided by customer requirements and how comfortable they are driving with compromised rearward vision. Backup cameras and sensors are providing a greater sense of security for cars with challenging rear aperture designs. 
+Ultimately, the design is usually guided by customer requirements and how comfortable they are driving with compromised rearward vision. Backup cameras and sensors are providing a greater sense of security for cars with challenging rear aperture designs.
 
 Most of the requirements or recommendations concern the rearview mirror. The illustration below. shows the requirement to be able to see the road within 60 meters of the rear of the vehicle. The sections at the right and bottom illustrate how up, down and side-to-side vision angles are generated from the reflected eye points forward of the interior mirror.
 
@@ -454,16 +453,13 @@ Most of the requirements or recommendations concern the rearview mirror. The ill
 ![image](./img/chapter_11/rearvissedan.jpg)
 Typically the sedan backlight aperture does not present a problem at the header because it is lifted by the rear headroom requirements. The deck lid however can often be quite. high, making rearward visibility while backing up a challenge. Benchmark other vehicles. in this area to avoid an issue..
 
-
 **COUPE & FASTBACK**
 ![image](./img/chapter_11/rearviscoupe.jpg)
 Coupes and fastbacks may have a problem with the rear header height due to the desire for a low roof, which often leads to compromised rear headroom.Notice in the section that the rear header is forward of the occupant's head. This is a common condition,. putting the head under the glass, improving clearance.Visibility over the deck lid may be worse than the sedan because the driver eye point is often lower to the ground.
 
-
 **HATCHBACK & SUVs**
 ![image](./img/chapter_11/rearvishatch.jpg)
 Hatchbacks and utility vehicles do not usually have an issue with rear visibility becaus the roof height is often tall and there is no deck lid. The rear header structure is much larger than the other cars because of the lift gate frame and hinge packaging. Occasionally, on SUVs, the spare tire is mounted on the rear swing gate which may obscure the rear view.
-
 
 **PICKUP TRUCKS**
 ![image](./img/chapter_11/rearvispickup.jpg)
@@ -480,6 +476,7 @@ From the designer's perspective, the basic criteria for each. section needs to b
 ![image](./img/chapter_11/sections.jpg)
 
 ### TYPICAL SECTIONS
+
 The exterior width may be controlled by overall vehicle dimension targets, and the shape of the sill section will vary greatly depending on the body type and construction method.
 
 The main thing to note here is that every vehicle will incorporate such box sections to manage the stresses and load paths throughout the body structure.
@@ -537,10 +534,10 @@ In the US the requirements are set out in the SAE Lighting Standards Manual and 
 Widespread adoption of light-emitting diode (LED) technology is changing the approach to the. engineering design of lamps. This is giving designers new opportunities for the shape and appearance of lighting, although the positioning of the lamps remains regulated. Laser lighting technologies are also emerging to add to the mix of options available. to designers and engineers.
 
 ### TYPICAL SECTION THROUGH GENERIC HEADLAMP
+
 This section illustrates the various components in a typical headlamp assembly. The size, shape and configuration of this section will change considerably depending on the technology applied, the exterior shape of the vehicle and the lamp configuration. Note that the lamp is usually mounted between the bumper and the wheelhouse, so the depth of the lamp package needs to be considered before the exterior front corner surface is developed.Also consider the space behind the lamp housing for bulb replacement.
 
 ![image](./img/chapter_11/headlampsection.jpg)
-
 
 ### GENERIC REAR LAMP CLUSTER
 
@@ -548,78 +545,80 @@ This section illustrates the various components in a typical headlamp assembly. 
 
 ![image](./img/chapter_11/tailampsection.jpg)
 
-
-
-
-
-
-
-
-
 **HEADLIGHTS**
 ![image](./img/chapter_11/headlamp.jpg)
-* Consisting of a high and low beam to illuminate the environment in front of the vehicle.  
-* Lens minimum sizes are determined by photometric requirements and lamp technology. 
+
+* Consisting of a high and low beam to illuminate the environment in front of the vehicle.
+* Lens minimum sizes are determined by photometric requirements and lamp technology.
 * Two or four lamps set symmetrically about centerline as far apart as practical.
 * Required in US (SAE and FMVSS 108) and Europe (ECE-R112, R98/99,R48, R45)
-
 
 **DAYTIME RUNNING LAMPS**
 ![image](./img/chapter_11/drl.jpg)
 Two dedicated lamps or the low beam headlamps to help make oncoming vehicles more conspicuous in day light.
-* Lens minimum sizes are determined by photometric requirements and lamp technology. 
+
+* Lens minimum sizes are determined by photometric requirements and lamp technology.
 * Two or four lamps set symmetrically about centerline as far apart as practical.
 * Required in US (FMVsS 108) and Europe only required on vehicles over 6 meters. (ECE-R91, R48)
 
 **PARK AND TURN**
 ![image](./img/chapter_11/turnidicator.jpg)
 Park - Indicates the vehicle's position when parked or during headlight failure.
-Turn - Flashes to indicate the driver's intent to turn, and can be used together for hazard warning Mounted symmetrically about centerline. 
+Turn - Flashes to indicate the driver's intent to turn, and can be used together for hazard warning Mounted symmetrically about centerline.
+
 * US requirements (SAE,IIHS and FMVSS 108) and Europe (ECE-R19, R48)
 
 **FRONT FOG**
 ![image](./img/chapter_11/frfog.jpg)
 Two forward-facing lights mounted symmetrically about centerline. Fog-light function is separate from headlight.
+
 * Required in Europe.(ECE-R6, R48)
 
 **SIDE MARKER**
 ![image](./img/chapter_11/sidemarker.jpg)
-Side markers indicate the overall length of the vehicle. 
+Side markers indicate the overall length of the vehicle.
+
 * Required in US (SAE and FMVSS 108) and Europe. (ECE-R6, R7 R77, R48)
 
 **SIDE REPEATER LAMPS**
 ![image](./img/chapter_11/siderepeater.jpg)
 Work with turn signals to show intent to turn or change lanes to vehicles traveling alongside.
+
 * Required in Europe.(ECE-R87,R48)
 
 **CENTER HIGH-MOUNTED STOP LAMP (CHMSL)**
 ![image](./img/chapter_11/chmsl.jpg)
+
 * One red light mounted on the vehicle centerline facing rearward, activated with brake lights.
 
 **TAIL, STOP, PARK & TURN-SIGNAL LAMPS**
 ![image](./img/chapter_11/tailstop.jpg)
 Taillights - (Red) Mark the presence of a vehicle and work with the headlights or park.
-Brake lights - (Red) Indicate the vehicle is slowing down/stopping. 
-Turn Signal - (US: red or amber. Europe: amber) Flash to indicate driver's intent to turn, or for hazard warning. 
-* All mounted symmetrically about centerline and a portion, meeting legal requirements, must be mounted on the fixed body. 
+Brake lights - (Red) Indicate the vehicle is slowing down/stopping.
+Turn Signal - (US: red or amber. Europe: amber) Flash to indicate driver's intent to turn, or for hazard warning.
+
+* All mounted symmetrically about centerline and a portion, meeting legal requirements, must be mounted on the fixed body.
 * May be clustered into a single light assembly.
 
 **BACK-UP /REVERSING LAMPS**
 ![image](./img/chapter_11/backuplamps.jpg)
-For illumination behind the vehicle, and they provide a warning signal when in reverse. 
+For illumination behind the vehicle, and they provide a warning signal when in reverse.
+
 * Only one required, two optional (must be symmetrical).
 * White in color.
 
 **REAR FOG LAMP**
 ![image](./img/chapter_11/rrfoglamp.jpg)
 Red in color - For making the vehicle more visible in fog.
+
 * Only one required, mounted on centerline or driver's side.
-* Two optional (must be symmetrical). 
+* Two optional (must be symmetrical).
 * Not permitted in USA,required in Europe.(ECE-R19,R48)
 
 **LICENSE PLATE LAMPS**
 ![image](./img/chapter_11/licenselamp.jpg)
 To llluminate the rear licence plate to be legible at night.
+
 * Required in US (SAE) and Europe.(ECE-R4, R48)
 
 ## Section 11.8 Bumpers
@@ -627,6 +626,7 @@ To llluminate the rear licence plate to be legible at night.
 The US and Canadian governments both require passenger car (trucks are exempt) bumpers to meet low-speed impact tests The tests range from speeds of 2.5mph to 5mph and aim to minimize damage caused in minor accidents. The requirements differ slightly for each country, but essentially call for the front and rear bumper systems to protect the adjacent areas from damage, especially the safety items such as lights To ensure that each vehicle complies with the requirement, the car is hit by a steel “pendulum”at 405mm and 508mm above the ground as shown in this illustration.
 
 ### TYPICAL GENERIC BUMPER SECTION
+
 ![image](./img/chapter_11/typicalbumpersection.jpg)
 
 ### BUMIPERBANDS
@@ -640,10 +640,9 @@ This is applied at centerline and at the corners. To pass the tests the bumper p
 The relationship of the body and underbody components to the ground should be appropriate to the use of the vehicle.Road-going passenger cars are set up to be driven without contact to the ground when fully loaded. Off-road vehicles will need to be raised according to their intended capability, which may also include being driven through water. Some sports cars can be designed. with compromised ground clearance to improve aerodynamics, but the owners will need to accept the limitations of their vehicle. in some situations
 
 * The minimum ground clearance dimensions shown are set by various governments to determine that the vehicle is suitable for off-road use.
-![image](./img/chapter_11/groundclearancesuv.jpg)
-
+  ![image](./img/chapter_11/groundclearancesuv.jpg)
 * These angles are quite low and are examples taken from typical products at curb attitude. Some specialty sports cars may be lower.
-![image](./img/chapter_11/groundclearancesedan.jpg)
+  ![image](./img/chapter_11/groundclearancesedan.jpg)
 
 Note:See the SAE J689 for ground-clearance recommendations.These are measured with the vehicle at compressed suspension attitudes
 ![image](./img/chapter_11/fullratedgroundline.jpg)
@@ -666,7 +665,7 @@ The section shows how a typical glass aperture is configured.Each aperture is su
 
 ## Section 11.11 License Plates
 
-License plates are required in all markets and their requirements differ significantly from market to market. Often they are left as an afterthought in the design process, which can lead to problems due to their size ocation and lighting requirements.Front license plates can be the most problematic for designers because they often need to be placed in the grill, spoiling the appearance of the vehicle's face. They can also block airflow to the cooling module if located in the wrong position. 
+License plates are required in all markets and their requirements differ significantly from market to market. Often they are left as an afterthought in the design process, which can lead to problems due to their size ocation and lighting requirements.Front license plates can be the most problematic for designers because they often need to be placed in the grill, spoiling the appearance of the vehicle's face. They can also block airflow to the cooling module if located in the wrong position.
 
 Vehicles sold across several markets will have a license pocket to accommodate the largest plates in all dimensions or make separate panels for each market. European plates are the widest (520mm), and US plates are the tallest (152mm), so a minimum pocket size of 520mm x 152mm will work in all situations.
 

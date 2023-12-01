@@ -106,12 +106,8 @@ Seat adjustment will vary depending on the size and cost of the vehicle.170mm of
 <p>Ideally, the seat should be designed to provide comfortable seating in the upright oosition and also to stow efficiently in the foot well (with the headrest in place) to provide a flat load floor. Achieving this will depend on the under-floor packaging of the suspension, final drive system, fuel tank, exhaust, spare tire and body structure. An inclined rear floor will help to create a flat load floor with the seat in a higher position.</p>
 <figure><img src="@source/posts/img/chapter_07/rearseatfold.png" alt="image" tabindex="0" loading="lazy"><figcaption>image</figcaption></figure>
 <ul>
-<li>
-<p>An inclined load floor helps to provide more space for under-body packaging.</p>
-</li>
-<li>
-<p>The rear floor design may be influenced by the packaging of the suspension, final drive svstem fuel tank. exhaust, spare tire and body structure.</p>
-</li>
+<li>An inclined load floor helps to provide more space for under-body packaging.</li>
+<li>The rear floor design may be influenced by the packaging of the suspension, final drive svstem fuel tank. exhaust, spare tire and body structure.</li>
 </ul>
 <h3 id="typical-minivan-stowing-seats" tabindex="-1"><a class="header-anchor" href="#typical-minivan-stowing-seats" aria-hidden="true">#</a> Typical Minivan Stowing Seats</h3>
 <p>Minivan floors are usually flat and quite high so stowing seats flat into the floor is possible with some creative under- floor packaging. Because the chair height is often high, the seat risers can be used to articulate the seats into their stowed position. When the seats are in their normal, upright position the vacant underfloor storage is an additional bonus for hiding valuables. A feature of this magnitude will have to be considered at the initial package ideation stage.</p>
@@ -203,30 +199,14 @@ Suitcases come in various shapes and sizes</p>
 <p>Although the boundaries for HMl are unlimited, the main focus for a design team are the interfaces that surround th iese can be configured in numerous ways, but the primary components will always take priority over less important ones.</p>
 <figure><img src="@source/posts/img/chapter_07/hmicomponent.png" alt="image" tabindex="0" loading="lazy"><figcaption>image</figcaption></figure>
 <ul>
-<li>
-<p><strong>Display Interfaces</strong>(speed, vehicle systems info,navigation, audio,communication, indirect vision)</p>
-</li>
-<li>
-<p><strong>Steering Wheel Interface</strong> (audio, phone, cruise,etc.)</p>
-</li>
-<li>
-<p><strong>Overhead systems interface</strong> (sunroof, lighting, homelink)</p>
-</li>
-<li>
-<p><strong>Indirect Vision Interface</strong> (Mirrors)</p>
-</li>
-<li>
-<p><strong>Air Distribution Vents</strong></p>
-</li>
-<li>
-<p><strong>Door Systems Interface</strong> (windows, locks,mirrors，release)</p>
-</li>
-<li>
-<p><strong>Center Stack General Interface</strong> (HVAC，Audio, Navigation)</p>
-</li>
-<li>
-<p><strong>Powertrain Interface</strong> (Shifter, start buton, drive mode)</p>
-</li>
+<li><strong>Display Interfaces</strong>(speed, vehicle systems info,navigation, audio,communication, indirect vision)</li>
+<li><strong>Steering Wheel Interface</strong> (audio, phone, cruise,etc.)</li>
+<li><strong>Overhead systems interface</strong> (sunroof, lighting, homelink)</li>
+<li><strong>Indirect Vision Interface</strong> (Mirrors)</li>
+<li><strong>Air Distribution Vents</strong></li>
+<li><strong>Door Systems Interface</strong> (windows, locks,mirrors，release)</li>
+<li><strong>Center Stack General Interface</strong> (HVAC，Audio, Navigation)</li>
+<li><strong>Powertrain Interface</strong> (Shifter, start buton, drive mode)</li>
 </ul>
 <p>Packaging an interior often leads to conflicts over prime space, so before locating the main elements of the HMl, always conside other important components in the interior. Air distribution vents and storage,for example, shouldn't be compromised to incorporate large displays or clusters of switches</p>
 <p>Currently there are about five ways to interact withthe various systems. Traditional switches, buttons, turn knobs and levers may always be the best solution to many input operations, but alternative technologies such as touch, voice, gesture and eye tracking should always be considered where appropriate. Determining what technologies are applied and where is critica to the design of a perfect HMI system.</p>

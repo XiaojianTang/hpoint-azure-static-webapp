@@ -1,19 +1,13 @@
 ---
 title: Chapter_12_Mobility
 date: 2023-11-29 17:33:54
-permalink: /pages/3f5dc7/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter12/
 ---
 # Chapter 12 Mobility
 
 ![image](./img/chapter_12/chapter12cover.jpg)
->Every aspect of transporting people and goods around our planet is either at a crossroads or approaching one As roadways all over the world become more congested and pollution is of greater concern to many people, it is becoming obvious that the current design direction of cars and trucks will not provide a sustainable future for society's transportation needs
+
+> Every aspect of transporting people and goods around our planet is either at a crossroads or approaching one As roadways all over the world become more congested and pollution is of greater concern to many people, it is becoming obvious that the current design direction of cars and trucks will not provide a sustainable future for society's transportation needs
 
 ## Section 12.1 Introduction
 
@@ -47,11 +41,10 @@ The illustration below shows approximately how much of a typical passenger car f
 
 ![image](./img/chapter_12/typicalfootprint.jpg)
 
-So a primary goal with this concept is to create a. package similar in size to a touring motorcycle, able to accommodate two full-size adults and if possible a sma amount of cargo. The vehicle could be considered a more protective and secure option to riding a motorcycle. 
+So a primary goal with this concept is to create a. package similar in size to a touring motorcycle, able to accommodate two full-size adults and if possible a sma amount of cargo. The vehicle could be considered a more protective and secure option to riding a motorcycle.
 
 **Large touring motorcycle**
 ![image](./img/chapter_12/largetouringmotorcycle.jpg)
-
 
 **Small narrow vehicle package**
 ![image](./img/chapter_12/smallnarrowvehicle.jpg)
@@ -75,7 +68,7 @@ For inner city areas, the scenario is similar, simply painting road markings to 
 **Freeway with ultra narrow lane divisions, increasing vehicle capacity by about 80%**
 ![image](./img/chapter_12/freewaywithnarrowlane.jpg)
 
-**Typical side street with curb side parking.( Ultra narrow shown lower)** 
+**Typical side street with curb side parking.( Ultra narrow shown lower)**
 ![image](./img/chapter_12/curbsideparking.jpg)
 
 ### AUTONOMOUS LUXURY-NARROW
@@ -95,7 +88,6 @@ The point to emphasize here is that both technology breakthroughs and environmen
 The interior can be configured for ultimate luxury commuter travel. While the owner is at work, the vehicle can run errands in autonomous mode, swallowing up large amounts of cargo in the long, flexible interior volume.
 
 * **DAILY COMMUTE MODE Single Passenger - Semi or Fully Autonomous Drive**
-![image](./img/chapter_12/dailycommute.jpg)
-
+  ![image](./img/chapter_12/dailycommute.jpg)
 * **PICK UP MODE Cargo Only - Fully Autonomous Drive**
-![image](./img/chapter_12/pickupmode.jpg)
+  ![image](./img/chapter_12/pickupmode.jpg)

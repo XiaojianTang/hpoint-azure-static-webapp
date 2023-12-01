@@ -1,14 +1,7 @@
 ---
 title: Chapter_04_PackageIdeation
 date: 2023-11-29 17:33:54
-permalink: /pages/33c87c/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter4/
 ---
 # Chapter 4 Package Ideation
 
@@ -48,7 +41,6 @@ Traditional car shapes are engrained in our minds, but it's important to underst
 
 ![image](./img/chapter_04/ideationsketch1.jpg)
 
-
 Ideation sketches serve two purposes. They not only provide a loose medium for the designer to develop and record ideas, but also communicate ideas to the decisior makers on the project. There will be milestone reviews during the ideation phase and some sketches may. require some value or color to communicate the design intention. Again, only spend a little extra time working or. each sketch to help sell the concept, not to lock in the. design. More time spent on one concept will rob time. from others, but if one design shows potential above the rest it may be worth investing some time to make sure that it's not overlooked during a review.
 
 ![image](./img/chapter_04/ideationsketch2.jpg)
@@ -76,37 +68,36 @@ As a commuter vehicle it will probably be small, inexpensive to buy and drive, e
 
 ![image](./img/chapter_04/microcarideation.jpg)
 
-
 As you work through this process, continue research into the major elements of the package. Consider the seating position for the occupants and think about the number of passengers, how they will relate to each other, their orientation and approximate location. Set up their height from the ground and their posture. Make notes on the drawing as you go.
 
-The powertrain specification should be estimated from the target performance goals and approximate weight of the car. Also look at which wheels will be driven.	
+The powertrain specification should be estimated from the target performance goals and approximate weight of the car. Also look at which wheels will be driven.
 
-The cargo requirements should be set out in the functional objectives. If specific items need to be carried, get their measurements and include these in the sketches.	
+The cargo requirements should be set out in the functional objectives. If specific items need to be carried, get their measurements and include these in the sketches.
 
-If the wheel size or locations are important, add information about diameters, wheelbase, track, etc.	
-Loosely sketch a body profile over each package to look	at the proportional difference between each study, theoutlines may inspire a design theme.		
+If the wheel size or locations are important, add information about diameters, wheelbase, track, etc.
+Loosely sketch a body profile over each package to look	at the proportional difference between each study, theoutlines may inspire a design theme.
 
 **Some Primary Target Specifications**
 
-|Item | Spec|
-|--|--|
-**Passengers**|1-3
-**Number of doors**|1-2
-**Top Speed**|85 mph
-**Acceleration 0-60**|	7 Seconds
-**Fuel Consumption**|	60mpg or equivalent
-**Range**	|100 - 150 miles
-**Safety**	|5 Star Crash (IIHS & NCAP)
-**Cost**|	$9,000-$12,000
-**Cargo**	|Minimal (groceries, small travel case etc.)
-**Powertrain**|	Fuel efficient /Alternative
-**Controls**	|Autonomous Drive Mode Option
-**Weight**	|850 - 900kg
-**Dimensions**| -	
-**Length**	|max 4000
-**Width**|	max 1400
-**Height**	|max 1400
-**Ground Clearance**| min 150
+| Item                        | Spec                                        |
+| --------------------------- | ------------------------------------------- |
+| **Passengers**        | 1-3                                         |
+| **Number of doors**   | 1-2                                         |
+| **Top Speed**         | 85 mph                                      |
+| **Acceleration 0-60** | 7 Seconds                                   |
+| **Fuel Consumption**  | 60mpg or equivalent                         |
+| **Range**             | 100 - 150 miles                             |
+| **Safety**            | 5 Star Crash (IIHS & NCAP)                  |
+| **Cost**              | $9,000-$12,000                              |
+| **Cargo**             | Minimal (groceries, small travel case etc.) |
+| **Powertrain**        | Fuel efficient /Alternative                 |
+| **Controls**          | Autonomous Drive Mode Option                |
+| **Weight**            | 850 - 900kg                                 |
+| **Dimensions**        | -                                           |
+| **Length**            | max 4000                                    |
+| **Width**             | max 1400                                    |
+| **Height**            | max 1400                                    |
+| **Ground Clearance**  | min 150                                     |
 
 As mentioned previously, keep the sketches very simple; at this stage they are just to look at basic proportions. These three. options look at various ways to approach the Aspirational Commuter Car.
 

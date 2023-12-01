@@ -1,19 +1,14 @@
 ---
 title: Chapter_06_OccupantPackaging
 date: 2023-11-29 17:33:54
-permalink: /pages/33d19a/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter6/
 ---
 # Chapter 6 Occupant Packaging
+
 ![image](./img/chapter_06/chapter6cover.jpg)
 
 ## Section 6.1 Driver Introduction
+
 It cannot be overemphasized how critical the driver and passenger packaging is to the overall architecture. The occupants directly or indirectly influence every aspect of the vehicle's design.
 It is often said that cars and trucks should be designed from the inside out. This refers more to the occupant package than the interior systems. The main objective is to set up the driver and passengers to be comfortable and safe, then create an envelope around them and use key reference data within their geometries to set up the rest of the vehicle package. The most important reference point in the package is the driver's hip or H point.
 
@@ -75,6 +70,7 @@ The intersection of the headliner trim and a line 8o from vertical through the H
 The leg geometry consists of the shin and thigh centerlines, which are constrained by the ankle pivot and the H-point. Thei. configuration is automatically updated as the H-point to heel relationship is changed.The thigh centerline is used to set up the steering wheel location and the shin determines the knee-. blocker surface on the instrument panel.
 
 ### SETTING UP THE DRVER HEIGHT & POSTURE
+
 The driver's height and posture are governed by several factors, namely: center of gravity, aerodynamics, ingress/egress, comfort and visibility. The vehicle height should be established by a. combination of these factors. The graphic on the following page. shows how the driver height and posture varies with the. functionality of each vehicle type. The dimensions provide an. approximate range to help set up the driver in a traditional packa
 
 For crossover vehicles, think about combining the attributes. For example a sporty off-road vehicle may have a high heel point for. ground clearance and structure, but may need a low chair. height to keep the roof height as low as possible. If the engine is. in the rear, forward visibility over the hood won't be a problem.
@@ -85,24 +81,24 @@ For crossover vehicles, think about combining the attributes. For example a spor
 
 The table below contains some examples of dimensions tak from current production cars.Use these to set up an initial package, assuming that the criteria that has driven these. numbers is similar to your concept. As the design develops and key elements in the package evolve, these may change. As you work through the process, develop an understanding of the factors that govern these interior environment dimensions
 
-|-|Heel to Ground|Chair Height|H point to ground|Back Angle|Effective Head Room|Upward Vision Angle |Downw'd Shoulder Vision Angle |Room |Hip Room |Lateral Location |Couple |Chair Height |Back Angle |Effective Head Room |Shoulder Room|Hip Room|Lateral Location|
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|-|(Ref)|H30|H5|A40|H61|A60|A61|W3|W5|W20|L50|H30-2|A40-2|H61-2|W3-2|W5-2|W20-2|
-|NEV| 325| 400| 725| 15.0| 1075|11.0|10.0|-|-|275|-|-|-|-| -| -| |
-|SPORTS CAR|175|150|325|28.0|950|8.0|5.0|1350|1275|325/400|-|-|-|-|-|-|
-|MICRO CAR|350|275|625|21.0|1000|14.0|11.0|1200|1150|300|-|-|-|-|-|-|
-|SMALL CAR|225|250|475|24.0|975|15.0|7.0|1350|1325|350|750|275|27.0|950|1350|1325|325|
-|MEDIUM CAR|250|250| 500|24.0|975|14.0|7.0|1475|1400|350|850|275|27.0|950|1475|1400|325|
-|MEDIUM COUPE|250|175|425|24.0|950|13.0|5.0|1375|1325|350|750|200|27.0|875|1375|1325|325|
-|LARGE CAR|275|250|525|24.0|975|14.0|6.0|1500|1450|375|900|275|27.0|975|1500|1450|400|
-|LARGE LUXURY CAR|275|275|550|22.0|975|15.0|7.0|1550|1500|400|975|300|28.0|975|1550|1450|375|
-| MINIVAN| 425|350|775|20.0|1010|19.0|11.0|1575|1525|425|850|375|22.0|1000|1575|1525|400
-|SMALL SUV|400|350|775 |20.0 |1010 1010| 15.0| 9.0| 1425| 1400|425|850|375 | 24.0| 1000| 1425|1375|375|
-|MEDIUM SUV|450|300|750|22.0|1010|14.0|6.0|1500|1450|400|825|325|24.0|1025|1650|1600|425|
-|LARGE SUV|450 |325|775|22.0|1025|14.0|7.0|1650| 1600|375|875|350|24.0| 1025| 1650| 1600|375|
-|SMALL TRUCK|400| 300|700|22.0|1010|14.0|7.0 | 1475|1450|375 | 625| 325|18.0|950|1475|1425| 400|
-|LARGE 4x4 TRUCK|600|350|950|22.0|1025|15.0|8.0|1700|1650|475|950|375|18.0|1025|1700|1650|475|
-|COMMERCIAL VAN|725|350|1075|22.0|1010|10.0|10.0|1675|1625| 525|900|425|19.0|1000|1675|1625|500|
+| -                | Heel to Ground | Chair Height | H point to ground | Back Angle | Effective Head Room | Upward Vision Angle | Downw'd Shoulder Vision Angle | Room | Hip Room | Lateral Location | Couple | Chair Height | Back Angle | Effective Head Room | Shoulder Room | Hip Room | Lateral Location |
+| ---------------- | -------------- | ------------ | ----------------- | ---------- | ------------------- | ------------------- | ----------------------------- | ---- | -------- | ---------------- | ------ | ------------ | ---------- | ------------------- | ------------- | -------- | ---------------- |
+| -                | (Ref)          | H30          | H5                | A40        | H61                 | A60                 | A61                           | W3   | W5       | W20              | L50    | H30-2        | A40-2      | H61-2               | W3-2          | W5-2     | W20-2            |
+| NEV              | 325            | 400          | 725               | 15.0       | 1075                | 11.0                | 10.0                          | -    | -        | 275              | -      | -            | -          | -                   | -             | -        |                  |
+| SPORTS CAR       | 175            | 150          | 325               | 28.0       | 950                 | 8.0                 | 5.0                           | 1350 | 1275     | 325/400          | -      | -            | -          | -                   | -             | -        |                  |
+| MICRO CAR        | 350            | 275          | 625               | 21.0       | 1000                | 14.0                | 11.0                          | 1200 | 1150     | 300              | -      | -            | -          | -                   | -             | -        |                  |
+| SMALL CAR        | 225            | 250          | 475               | 24.0       | 975                 | 15.0                | 7.0                           | 1350 | 1325     | 350              | 750    | 275          | 27.0       | 950                 | 1350          | 1325     | 325              |
+| MEDIUM CAR       | 250            | 250          | 500               | 24.0       | 975                 | 14.0                | 7.0                           | 1475 | 1400     | 350              | 850    | 275          | 27.0       | 950                 | 1475          | 1400     | 325              |
+| MEDIUM COUPE     | 250            | 175          | 425               | 24.0       | 950                 | 13.0                | 5.0                           | 1375 | 1325     | 350              | 750    | 200          | 27.0       | 875                 | 1375          | 1325     | 325              |
+| LARGE CAR        | 275            | 250          | 525               | 24.0       | 975                 | 14.0                | 6.0                           | 1500 | 1450     | 375              | 900    | 275          | 27.0       | 975                 | 1500          | 1450     | 400              |
+| LARGE LUXURY CAR | 275            | 275          | 550               | 22.0       | 975                 | 15.0                | 7.0                           | 1550 | 1500     | 400              | 975    | 300          | 28.0       | 975                 | 1550          | 1450     | 375              |
+| MINIVAN          | 425            | 350          | 775               | 20.0       | 1010                | 19.0                | 11.0                          | 1575 | 1525     | 425              | 850    | 375          | 22.0       | 1000                | 1575          | 1525     | 400              |
+| SMALL SUV        | 400            | 350          | 775               | 20.0       | 1010 1010           | 15.0                | 9.0                           | 1425 | 1400     | 425              | 850    | 375          | 24.0       | 1000                | 1425          | 1375     | 375              |
+| MEDIUM SUV       | 450            | 300          | 750               | 22.0       | 1010                | 14.0                | 6.0                           | 1500 | 1450     | 400              | 825    | 325          | 24.0       | 1025                | 1650          | 1600     | 425              |
+| LARGE SUV        | 450            | 325          | 775               | 22.0       | 1025                | 14.0                | 7.0                           | 1650 | 1600     | 375              | 875    | 350          | 24.0       | 1025                | 1650          | 1600     | 375              |
+| SMALL TRUCK      | 400            | 300          | 700               | 22.0       | 1010                | 14.0                | 7.0                           | 1475 | 1450     | 375              | 625    | 325          | 18.0       | 950                 | 1475          | 1425     | 400              |
+| LARGE 4x4 TRUCK  | 600            | 350          | 950               | 22.0       | 1025                | 15.0                | 8.0                           | 1700 | 1650     | 475              | 950    | 375          | 18.0       | 1025                | 1700          | 1650     | 475              |
+| COMMERCIAL VAN   | 725            | 350          | 1075              | 22.0       | 1010                | 10.0                | 10.0                          | 1675 | 1625     | 525              | 900    | 425          | 19.0       | 1000                | 1675          | 1625     | 500              |
 
 ### OCCUPANT ENVIRONMENT DIMENSIONS
 
@@ -135,6 +131,7 @@ The packages on this page shows several two door cars tha are in production and 
 Some creative packaging is often required to increase the rear headroom. For example, the rear header structure may be shifted away from the passenger's head to improve the head environment, but this will affect exterior glass boundary styling.For cars with a lift gate, the rear header structure will be larger to accommodate the closure panels and hinges and also provide additional strength. It is not unusual to package the rear head forms under the glass to optimize the available space.
 
 ### REAR OCCUPANTS - FOUR DOOR CARS
+
 Compromise is usually unacceptable in the rear compartment of four door family passenger cars.
 
 ![image](./img/chapter_06/occupantfourdoor.jpg)
@@ -146,6 +143,7 @@ The couple is usually the most noticeable dimension change as larger cars are de
 In smaller sedans, toot swing past the base ot the B Pillar is often tight and needs to be evaluated as the. body side apertures are designed. This issue goes. away with a longer couple distance as the seat is pushed further away from the B Pillar.
 
 ### REAR OCCUPANTS - SPORT UTILITY VEHICLES
+
 The rear occupant expectations may be similar to sedans but the packaging will be quite different. First of all the H points will be higher from the ground ang the seat height (H point to Heel) will often be taller. Additionally, the head room may be higher to provided extra clearance for the occupants bouncing while driving. on rough terrain. Usually at least 1010+ mm is required.. Often the wheelbase of the SUV will be short to improve the ramp over angle and the suspension travel (jounce) w be more than road cars, so the rear occupants will be pushed further forward than in a normal passenger car of a similar size.
 
 *Note:Many SUVs have high rear floors over the axles and this may create a low chair height for the rearmost passengers and also compromise the headroom.*
@@ -154,10 +152,11 @@ The rear occupant expectations may be similar to sedans but the packaging will b
 ![image](./img/chapter_06/occupantsuv.jpg)
 
 ### REAR OCCUPANTS - VANS
-Vans usually provide the most comfortable rear seating with easy ingress egress, but like the SUVs the third row may be compromised in smaller vehicles. 
+
+Vans usually provide the most comfortable rear seating with easy ingress egress, but like the SUVs the third row may be compromised in smaller vehicles.
 
 ![image](./img/chapter_06/occupantvan.jpg)
 
-The rear suspension is often designed to create a low flat floor so the occupant package should be consistent from front to back. 
+The rear suspension is often designed to create a low flat floor so the occupant package should be consistent from front to back.
 
 Rear seating flexibility is becoming more common so providing the ability to slide, rotate and stow seats should be considered and may affect each seat's location.

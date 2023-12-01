@@ -46,14 +46,10 @@
 <p><strong>PACKAGE CONFIGURATION OPTIONS</strong></p>
 <p>The interior can be configured for ultimate luxury commuter travel. While the owner is at work, the vehicle can run errands in autonomous mode, swallowing up large amounts of cargo in the long, flexible interior volume.</p>
 <ul>
-<li>
-<p><strong>DAILY COMMUTE MODE Single Passenger - Semi or Fully Autonomous Drive</strong>
-<img src="@source/posts/img/chapter_12/dailycommute.jpg" alt="image" loading="lazy"></p>
-</li>
-<li>
-<p><strong>PICK UP MODE Cargo Only - Fully Autonomous Drive</strong>
-<img src="@source/posts/img/chapter_12/pickupmode.jpg" alt="image" loading="lazy"></p>
-</li>
+<li><strong>DAILY COMMUTE MODE Single Passenger - Semi or Fully Autonomous Drive</strong>
+<img src="@source/posts/img/chapter_12/dailycommute.jpg" alt="image" loading="lazy"></li>
+<li><strong>PICK UP MODE Cargo Only - Fully Autonomous Drive</strong>
+<img src="@source/posts/img/chapter_12/pickupmode.jpg" alt="image" loading="lazy"></li>
 </ul>
 </div></template>
 

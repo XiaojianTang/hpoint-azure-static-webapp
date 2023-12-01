@@ -1,20 +1,13 @@
 ---
 title: Chapter_05_SizeAndProportion
 date: 2023-11-29 17:33:54
-permalink: /pages/264ffa/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter5/
 ---
 # Chapter 5 Size & Proportion
 
 ![image](./img/chapter_05/chapter05cover.jpg)
 
-## Section 5.1 Introduction 
+## Section 5.1 Introduction
 
 Setting up the size and proportion of a vehicle can be approached in several ways. The first approach may be purely emotional. You may have already decided that the concept wil be large or small, high or low, have a short or a long hood. You will be working with a mindset that the vehicle needs to be. designed to look a certain way for the customer to accept it. If. this is the case, the package can often be designed under the skin, because there will be nothing revolutionary about it. It is taking what we already know today and simply refining it. This is a case of the package being lead by the design.
 
@@ -53,7 +46,6 @@ The bottom car has a rear-mounted engine which requires a lot of mass behind the
 
 The side-view proportions of the body are influenced by the occupants, cargo and powertrain packages.Additionally, the ground clearance, crash systems and aerodynamics wi affect the profile. All of these, in turn, are driven by the functional objectives. Some typical examples of various body types. and proportions are illustarted here.
 
-
 ![image](./img/chapter_05/micro_hatch_sedan.jpg)
 **One Box - Micro** & **Two Box - Hatch Back** & **Three Box - Sedan**
 
@@ -65,7 +57,6 @@ The side-view proportions of the body are influenced by the occupants, cargo and
 
 ![image](./img/chapter_05/midengine_roadster.jpg)
 **Mid Engine Sport Car** & **Roadster**
-
 
 ![image](./img/chapter_05/suv_pickup.jpg)
 **Sports Utility Vehicle** & **Pick Up Truck**
@@ -122,36 +113,40 @@ Every package should be developed in zones.This helps to simplif the thought pro
 
 These may be different for each vehicle, depending on the objectives and system layout, but the fundamentals remain the same.For example a rear engined, two passenger sports car wil be sliced up completely differently to a pick up truck.Each package will also be divided up into vertical and lateral slices as shown on the following pages.
 
-|Front Impact Structure & Powertrain|Driver Package.|Rear Occupant Package|Rear Impact Structure & Cargo Space|
-|--|--|--|--|
-The size and orientation of the engine will significantly affect the proportion of the front end. Free crush space for frontal impact is. required around the powertrain and chassis components to help meet frontal impact requirements.|The space occupied by the driver's lower limbs is determined by. the chair height. An increase of chair height. will shorten the horizontal length between the feet and. the hips.|The distance between the front and rear occupants (couple) will directly affect the vehicle length, which is why the rear passengers suffer the most in smaller cars..|This space is mainly used to accommodate cargo, the spare tire and fuel tank. Protecting the rear occupants and fuel from rear impact will also influence this dimension.
+| Front Impact Structure & Powertrain                                                                                                                                                                                                       | Driver Package.                                                                                                                                                                    | Rear Occupant Package                                                                                                                                                  | Rear Impact Structure & Cargo Space                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The size and orientation of the engine will significantly affect the proportion of the front end. Free crush space for frontal impact is. required around the powertrain and chassis components to help meet frontal impact requirements. | The space occupied by the driver's lower limbs is determined by. the chair height. An increase of chair height. will shorten the horizontal length between the feet and. the hips. | The distance between the front and rear occupants (couple) will directly affect the vehicle length, which is why the rear passengers suffer the most in smaller cars.. | This space is mainly used to accommodate cargo, the spare tire and fuel tank. Protecting the rear occupants and fuel from rear impact will also influence this dimension. |
 
 ![image](./img/chapter_05/sliceup2.jpg)
 
-|Overall Length Targets & Limitation|
-|--|
-The maximum overall length may be a project goal established to ensure the vehicle fits into a particular market segment. lly, street/garage parking and maneuverability are also limiting factors.Accommodating a specific spindle locatio. e and overhang may also affect the overall length (OAL). Excessive length will add cost and weight and limit performance.
+| Overall Length Targets & Limitation                                                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The maximum overall length may be a project goal established to ensure the vehicle fits into a particular market segment. lly, street/garage parking and maneuverability are also limiting factors.Accommodating a specific spindle locatio. e and overhang may also affect the overall length (OAL). Excessive length will add cost and weight and limit performance. |
 
 **Front Engine - FWD**
+
 * The front overhang and spindle is set up by the driverhaft location.
-![image](./img/chapter_05/fwd.jpg)
+  ![image](./img/chapter_05/fwd.jpg)
 * The wheel base is set up efficiently around the passenger location.
 
 **Front Engine - RWD**
+
 * The front wheel is set forward to imporve approach angle and minimize the effects of a heavy load on the steering.
-![image](./img/chapter_05/rwdpickup.jpg)
+  ![image](./img/chapter_05/rwdpickup.jpg)
 * Bed length is determined by function. They range from 850 to 2500mm.
 * The rear wheel location is set close to the middle of the bed for ideal load distribution and ramp over.
 
 **Front Engine - RWD**
+
 * RWD/FWD The front wheel is set forward to allow the driver to be located in a forward location.
-![image](./img/chapter_05/rwdvan.jpg)
+  ![image](./img/chapter_05/rwdvan.jpg)
 * Rear cargo bay length is determined by functional requirements.
 * The rear wheel location is set behind the side load door which is designed to allow specific items to pass through, which are usually over 1000mm.
 
 **Rear/Mid Engine - RWD**
+
 * The front wheel is positioned to establish perfect weight distribution.
-![image](./img/chapter_05/rwdmidengine.jpg)
+  ![image](./img/chapter_05/rwdmidengine.jpg)
 * The engine transmission fuel tank and crush space are all located behind the driver.
 * The rear wheel is lined up with the driveshaft location.
 
@@ -204,9 +199,11 @@ Additional dimensions may need to be added depending on the type of vehicle and 
 ![image](./img/chapter_05/keydimensions.jpg)
 
 ### MAIN EXTERIOR DIMENSIONS
+
 ![image](./img/chapter_05/keydim1.jpg)
 
 ### MAIN INTERIOR DIMENSIONS
+
 ![image](./img/chapter_05/keydim2.jpg)
 
 ## Section 5.5 Benchmarking
@@ -239,6 +236,7 @@ Example benchmark study, showing similarities in length and width to an existing
 ![image](./img/chapter_05/benchmarkpkgdrawing.jpg)
 
 ### BENCHMARK PROCESS EXAMPLE
+
 The example shown here is an off-road sports truck concept with a V12 engine.
 
 The five comparisons shown on the following pages demonstrate how elements of serveral different vehicles can be used to build and communicate the proportions of a new concept.
@@ -253,6 +251,7 @@ To set up the basic package for a concept, several comparisons are usually neces
 
 **Similar Underbody and Tires**
 ![image](./img/chapter_05/similarunderbody.jpg)
+
 1. The concept could adopt same wheelbase and grounc clearance as the Range Rover so it may have a similar. off-road capability. The driver's heel is also a similar. height, providing room for a strong and durable. underbody structure suitable for off-road use.
 
 *Note: The packages are lined up at the ground and wheels*
@@ -274,7 +273,6 @@ To set up the basic package for a concept, several comparisons are usually neces
 **Similar Cargo Bed Length(shoulder to tailgate)**
 ![image](./img/chapter_05/similarcargo.jpg)
 
-
 4. The concept will have a similar bed size as the Hummer H1. This study looks at the stack up of the seat back, rear bulkhead and bed length, tailgate and bumper.
 
 *Note: The packages are lined up at the rear occupant's shoulder.*
@@ -284,7 +282,6 @@ To set up the basic package for a concept, several comparisons are usually neces
 
 ![image](./img/chapter_05/similaroveralldim.jpg)
 
-
 After developing the concept to this level, start to consider other large elements in the package, such as the fuel tank, spare tire, and stowing seats. Don't get too hung up on these components, but respect the space they will occupy.As the project moves forward, an engineering team will become more involved and adjust the package accordingly.
 
 ## Section 5.6 Evaluating Proportions
@@ -293,7 +290,7 @@ The main objective at this part of the process is to get the 2D design into a 3D
 
 *This initial template or "tape drawing is quite basic but it is enough to start a scale mode/ with confidence.Most of the main slab surfaces, i.e., the side glass, body side, hood, roof and windshield can be blocked in from these side and end view profiles. The package will become more complex as the mode develops, but should be kept very simple at the start. The basic process to create this drawing is shown on the following pages.*
 
-![image](./img/chapter_05/basictapdrawing.jpg 'Basic, Sections and Curves"Tape"Drawing"')
+![image](./img/chapter_05/basictapdrawing.jpg "Basic, Sections and Curves")
 
 ![image](./img/chapter_05/basicblockcad.jpg "Basic, Blocked in Clay or CAD Mode")
 
@@ -305,7 +302,7 @@ Traditionally, this stage of the process was done in black tape on mylar at the 
 
 Start by creating an approximate side view over the package. Include all of the major curves that influence the proportions. Overbuilding the curves or surface at this stage will help to establish a preliminary outline quickly.. H-POINT|Size & Proportion
 
-###  A "TAPE DRAWING" OVER THE PACKAGE - STEP 2. END VIEW
+### A "TAPE DRAWING" OVER THE PACKAGE - STEP 2. END VIEW
 
 Create end view sections over the key elements in the package, such as the occupants, tires and cargo using the si r setting up the main end view sections, go back and adjust the side view where necessary..
 
@@ -324,7 +321,7 @@ At this point templates can be made from the overbuilt curves. Alternatively, th
 ![image](./img/chapter_05/tapedrawingplanview.jpg)
 
 ### CREATING A"TAPE DRAWING"OVER THE PACKAGE-CLEAN UP
+
 The drawing can also be cleaned up for further 2D evaluation and design changes
 
 ![image](./img/chapter_05/tapedrawingcleanup.jpg)
-

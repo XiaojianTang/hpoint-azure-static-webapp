@@ -1,14 +1,7 @@
 ---
 title: Chapter_07_InteriorAndCargo
 date: 2023-11-29 17:33:54
-permalink: /pages/2791af/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter7/
 ---
 # Chapter 7 Interior & Cargo
 
@@ -22,11 +15,11 @@ The interior components can be divided into about seven systems, shown in the il
 
 ### DESIGN FOR SAFETY
 
-An important concept to consider is that the interior must be safe. 
+An important concept to consider is that the interior must be safe.
 
-Some parts contain the active and passive safety systems, such as the air bags, seat belts and knee blockers.They can be attached directly to the vehicle structure to aid their function. 
+Some parts contain the active and passive safety systems, such as the air bags, seat belts and knee blockers.They can be attached directly to the vehicle structure to aid their function.
 
-Other items, such as the headrests and roof. linings are designed to prevent head and neck injuries, in the event of severe impacts. 
+Other items, such as the headrests and roof. linings are designed to prevent head and neck injuries, in the event of severe impacts.
 
 The completed interior components will play a role in every safety test, so the location, shape, surface hardness and supporting structures have to be carefully designed to protect the occupants
 
@@ -57,6 +50,7 @@ Other switches and controls will need to be located within reach of the driver a
 ![image](./img/chapter_07/controls.jpg)
 
 ### DISPLAYS
+
 The telematics may effect the layout of the vehicle package. For some cars it may just be a navigation scre and a smart phone dock, but other vehicles may have a 50" flat screen TV with a full home theater system.
 
 Telematics systems and their interfaces are causing a revolution in automotive design and are a high. consideration for customers. As the technology continues to develop the interior design will follow to take advantage of elements that simplify driver tasks and improve customer satisfaction.
@@ -110,7 +104,7 @@ Pedal layout will depend on manual or automatic
 Working in conjunction with the air bag, it is a component of the safety restraint system (SRS). Its relative location to the occupant is critical to prevent an unbelted occupant from "submarining" during a frontal impact. It is connected directly to the main I.P. structure to provide a solid pad.
 
 **Instrument Cluster**
-Usually housed behind the steering wheel, occasionally in the center stack, the instruments usually include the speedometer, tachometer, fuel gauge, engine temperature, battery charge, and warning lights. 
+Usually housed behind the steering wheel, occasionally in the center stack, the instruments usually include the speedometer, tachometer, fuel gauge, engine temperature, battery charge, and warning lights.
 
 **AVN Displays**
 Primarily for navigation, audio and communication information.
@@ -121,7 +115,7 @@ The shifter, telematics, HVAC controls, vents, radio, cup holders and banks of s
 **Air Distribution Face Vents**
 Positioned to blow conditioned air at the occupant's face and torso.
 
-**Passenger Side Air Bag** 
+**Passenger Side Air Bag**
 Can be mounted in the top pad or on the front of the instrument panel.
 
 **Door Trims**
@@ -202,7 +196,6 @@ Ideally, the seat should be designed to provide comfortable seating in the uprig
 ![image](./img/chapter_07/rearseatfold.png)
 
 * An inclined load floor helps to provide more space for under-body packaging.
-
 * The rear floor design may be influenced by the packaging of the suspension, final drive svstem fuel tank. exhaust, spare tire and body structure.
 
 ### Typical Minivan Stowing Seats
@@ -217,14 +210,14 @@ Minivan floors are usually flat and quite high so stowing seats flat into the fl
 
 Cargo can take up as much space, or more, than the occupants, so it is worth thinking about from the start. veral factors should be investigated to determine the architecture adjacent to the cargo storage area.
 
-* **Overall dimensions** are usually designed around specific items to be carried. This often relates to the customer's lifestyle. 
-* **Interior volume** is a big selling point in passenger cars (see page168). If several smaller items are carried, the volume measurement helps to determine how one car compares to another. 
+* **Overall dimensions** are usually designed around specific items to be carried. This often relates to the customer's lifestyle.
+* **Interior volume** is a big selling point in passenger cars (see page168). If several smaller items are carried, the volume measurement helps to determine how one car compares to another.
 * **Aperture size** should be as big as possible to allow large items to be fed into the cargo bay.
-* **Lift-over Height and Floors** should be as low as possible. For most vehicles this will be just above the bumper height (530mm). For trucks the load floor may be quite high to allow for the frame rails and suspension travel. 
-* **Suspension** design may need to be compact to help lower the load floor, or very strong to carry heavy loads.  
-* **Load Floors** should be flat to make organizing and moving heavy objects easier. 
-* **Underbody** and seat design should be set up for maximum space flexibility 
-* **Tumblehome & Backlight** attitude should be as vertical as possible. 
+* **Lift-over Height and Floors** should be as low as possible. For most vehicles this will be just above the bumper height (530mm). For trucks the load floor may be quite high to allow for the frame rails and suspension travel.
+* **Suspension** design may need to be compact to help lower the load floor, or very strong to carry heavy loads.
+* **Load Floors** should be flat to make organizing and moving heavy objects easier.
+* **Underbody** and seat design should be set up for maximum space flexibility
+* **Tumblehome & Backlight** attitude should be as vertical as possible.
 * **Rear Wheel Placement** should be set up for optimal weight distribution.
 
 ### PRIMARY CARGO CONSIDERATIONS
@@ -271,16 +264,17 @@ Suitcases come in various shapes and sizes
 
 The interior volume measurement index is used primarily to determine how much usable space is available for the occupants and cargo. The volume is reported in cubic feet or cubic meters and is the sum of the key interior measurement, shown below.
 
-Target volumes are often set out in the functional objectives.Creating a competitive space becomes an important marketing tool, so these numbers are often used by consumer groups to describe how efficient a package is and how it stacks up against a competitive vehicle. 
+Target volumes are often set out in the functional objectives.Creating a competitive space becomes an important marketing tool, so these numbers are often used by consumer groups to describe how efficient a package is and how it stacks up against a competitive vehicle.
 
 In the US, the Environmental Protection Agency (EPA) uses the interior volume to determine vehicle-size classifications.
 
 ![image](./img/chapter_07/interiorvolumn.jpg)
 
 **EPA Interior Volume Index**
-|Class|Mini Compact Car|Subcompact Car|Compact Car|Midsize Car|Large Car|Small Wagon|Midsize Wagon|Large Wagon|
-|--|--|--|--|--|--|--|--|--|
-|Cubic Feet|under 85|85-99.9|100-109.9|110-119.9|over 120|under 130|130-160|over 160|
+
+| Class      | Mini Compact Car | Subcompact Car | Compact Car | Midsize Car | Large Car | Small Wagon | Midsize Wagon | Large Wagon |
+| ---------- | ---------------- | -------------- | ----------- | ----------- | --------- | ----------- | ------------- | ----------- |
+| Cubic Feet | under 85         | 85-99.9        | 100-109.9   | 110-119.9   | over 120  | under 130   | 130-160       | over 160    |
 
 ## Section 7.6 Interface Design - HMI
 
@@ -309,19 +303,12 @@ Although the boundaries for HMl are unlimited, the main focus for a design team 
 ![image](./img/chapter_07/hmicomponent.png)
 
 * **Display Interfaces**(speed, vehicle systems info,navigation, audio,communication, indirect vision)
-
 * **Steering Wheel Interface** (audio, phone, cruise,etc.)
-
 * **Overhead systems interface** (sunroof, lighting, homelink)
-
 * **Indirect Vision Interface** (Mirrors)
-
 * **Air Distribution Vents**
-
 * **Door Systems Interface** (windows, locks,mirrors，release)
-
 * **Center Stack General Interface** (HVAC，Audio, Navigation)
-
 * **Powertrain Interface** (Shifter, start buton, drive mode)
 
 Packaging an interior often leads to conflicts over prime space, so before locating the main elements of the HMl, always conside other important components in the interior. Air distribution vents and storage,for example, shouldn't be compromised to incorporate large displays or clusters of switches

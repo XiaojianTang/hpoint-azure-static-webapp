@@ -397,14 +397,10 @@ To llluminate the rear licence plate to be legible at night.</p>
 <h2 id="section-11-9-ground-clearance" tabindex="-1"><a class="header-anchor" href="#section-11-9-ground-clearance" aria-hidden="true">#</a> Section 11.9 Ground Clearance</h2>
 <p>The relationship of the body and underbody components to the ground should be appropriate to the use of the vehicle.Road-going passenger cars are set up to be driven without contact to the ground when fully loaded. Off-road vehicles will need to be raised according to their intended capability, which may also include being driven through water. Some sports cars can be designed. with compromised ground clearance to improve aerodynamics, but the owners will need to accept the limitations of their vehicle. in some situations</p>
 <ul>
-<li>
-<p>The minimum ground clearance dimensions shown are set by various governments to determine that the vehicle is suitable for off-road use.
-<img src="@source/posts/img/chapter_11/groundclearancesuv.jpg" alt="image" loading="lazy"></p>
-</li>
-<li>
-<p>These angles are quite low and are examples taken from typical products at curb attitude. Some specialty sports cars may be lower.
-<img src="@source/posts/img/chapter_11/groundclearancesedan.jpg" alt="image" loading="lazy"></p>
-</li>
+<li>The minimum ground clearance dimensions shown are set by various governments to determine that the vehicle is suitable for off-road use.
+<img src="@source/posts/img/chapter_11/groundclearancesuv.jpg" alt="image" loading="lazy"></li>
+<li>These angles are quite low and are examples taken from typical products at curb attitude. Some specialty sports cars may be lower.
+<img src="@source/posts/img/chapter_11/groundclearancesedan.jpg" alt="image" loading="lazy"></li>
 </ul>
 <p>Note:See the SAE J689 for ground-clearance recommendations.These are measured with the vehicle at compressed suspension attitudes
 <img src="@source/posts/img/chapter_11/fullratedgroundline.jpg" alt="image" loading="lazy"></p>

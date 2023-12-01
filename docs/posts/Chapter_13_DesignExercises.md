@@ -1,39 +1,34 @@
 ---
 title: Chapter_13_DesignExercises
 date: 2023-11-29 17:33:54
-permalink: /pages/51f91b/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter13/
 ---
 # Chapter 13 Design Exercises
 
->Building a basic package can be quite a complex process, so take each step one at a time.
-The following assignments outline the tasks that need to be accomplished at each stage, following the order of the chapters in this book.
-These are ideal for students to complete as weekly homework assignments,helping to build a conceptual vehicle package over a typical14-16week term.
+> Building a basic package can be quite a complex process, so take each step one at a time.
+> The following assignments outline the tasks that need to be accomplished at each stage, following the order of the chapters in this book.
+> These are ideal for students to complete as weekly homework assignments,helping to build a conceptual vehicle package over a typical14-16week term.
 
 ## Section 13.1 The Exercises
 
 The tollowing ten assignments outline the tasks that need to be accomplished at each stage of the design process, following the order of the previous chapters.
 
-Although each individual assignment can be focused on one at a time, the result of the research and execution of each study may affect the. outcome of previous exercises, so be prepared to continually adjust the concept as you learn more about the possibilities and constraints of the architecture. 
+Although each individual assignment can be focused on one at a time, the result of the research and execution of each study may affect the. outcome of previous exercises, so be prepared to continually adjust the concept as you learn more about the possibilities and constraints of the architecture.
 
 These are ideal for design students to complete as weekly homework assignments, helping to build a conceptual vehicle package over the course of a 12-14 week term.
 
 ![image](./img/chapter_13/exercises.jpg)
 
 ### Exercise One Setting Functional Objectives
->Reference Chapter 3
+
+> Reference Chapter 3
 
 ![image](./img/chapter_13/exercisesconsumer.jpg)
 
 Set out some clear functional objectives for the three entities: customers, brand and market environment.
 
 **CUSTOMERS**:
+
 * Purpose of the vehicle.
 * Number of occupants.
 * Type of occupants.(gender, age, nationality, disabilities, etc.)
@@ -42,6 +37,7 @@ Set out some clear functional objectives for the three entities: customers, bran
 * Image.(modern, retro, prestigious, ecological, safe, bold, high-performance)
 
 **MANUFACTURER /BRAND**:
+
 * Vehicle position in the brand portfolio.
 * Investment & manufacturing costs.
 * Annual sales volumes(1-100;100-5,000;5000-50,000;50,000-100,000;100,000-1,000,000)
@@ -49,6 +45,7 @@ Set out some clear functional objectives for the three entities: customers, bran
 * Technology.(traditional, advanced)
 
 **MARKET / DRIVING ENVIRONMENT**:
+
 * Infrastructure, terrain & climate.
 * Size limitations.(length, width, height, tire size, engine size & output)
 * Legislation.(safety, emissions, fuel consumption, lighting)
@@ -56,54 +53,52 @@ Set out some clear functional objectives for the three entities: customers, bran
 * Consumer advocate groups.(JD Power, MSN Autos, EuroNCAPInsurance Institute for Highway Safety Consumer Reports)
 
 ### Exercise Two Package Ideation
->Reference Chapter 4
+
+> Reference Chapter 4
 
 ![image](./img/chapter_13/exercisesideation.jpg)
 
 Loosely sketch some basic package concepts based on the functional objectives which drive the architecture.Each sketch should only take a few minutes.Don't worry too much about scale and keep sketching until you have exhausted all the possibilities.
 
 **Focus on the following elements:**
+
 * The occupant package.
-* Cargo. 
+* Cargo.
 * Powertrain & Fuel Storage.
-* Wheels & Tires. 
-* Special features - doors, flexible seating, aerodynamics alternative body construction, convertible top, etc. 
+* Wheels & Tires.
+* Special features - doors, flexible seating, aerodynamics alternative body construction, convertible top, etc.
 
 **Sketch each package concept in at least two orthographic views and add isometric illustrations where necessary.**
 
 Continually revisit the functional objectives to make sure that they are feeding your ideation. Work out which systems are important to the success of the concept and. begin to establish a hierarchy. Determine which elements are subordinate and which ones lead.
 
-### Exercise Three Size & Proportion 
->Reference Chapter 5
+### Exercise Three Size & Proportion
+
+> Reference Chapter 5
 
 Choose a direction trom the package ideation sketches and establish the size & proportion of that concept. Look again at the functional objectives to see which key dimensions deserve the most focus.Use known benchmark products to help build the package in chunks, using a separate product for each chunk if required
 
 **Set up comparisons for:**
 
 1. Occupant package and interior environment.Look at occupant location and posture.Also focus on the space around the manikins.
-
 2. Cargo.Think about volume, size and weight of the items to be transported, and set up space around the occupant package.
-
 3. Powertrain package. Choose a product with a similar propulsion system and note the spacial envelopes around the major components.
-
 4. Ground clearance. Look at vehicles with similar capabilities (off-road vs. on-road) to your concept, and note the relationship of the underbody components to the ground..
-
 5. Crashworthiness. Study vehicles that meet the appropriate safety standards and note the "crush space" and structure allocated to protect the occupants.
-
 6. Wheel and Tire package.Compare the tire outside diameter and profile to vehicles of similar size and capability.
-
 7. Other Elements.Study other significant components in the concept, such as windshield placement, closure articulation and cut lines, lighting, and seating flexibility
 
 **Establish some key target dimensions:**
 
-WIDTH 
-HEIGHT 
-WHEELBASE 
-TIRE O.D. 
+WIDTH
+HEIGHT
+WHEELBASE
+TIRE O.D.
 GROUND CLEARAN
 
-### Exercise Four Occupant Packaging 
->Reference Chapter 6
+### Exercise Four Occupant Packaging
+
+> Reference Chapter 6
 
 ![image](./img/chapter_13/exercisesoccupant.jpg)
 
@@ -115,19 +110,18 @@ Aerodynamics, handling, comfort, space, ingress /egress, safety, security packag
 
 **Establish some key target dimensions for each row of occupants**
 
-H-POINT HEIGHT FROM GRG 
-CHAIR HEIGHT (H-Pt. to Heel) 
-BACK ANGLE 
-FORWARD VISION ANGLES 
-EFFECTIVE HEADROOM 
-SHOULDER ROOM 
-LATERAL LOCATION 
+H-POINT HEIGHT FROM GRG
+CHAIR HEIGHT (H-Pt. to Heel)
+BACK ANGLE
+FORWARD VISION ANGLES
+EFFECTIVE HEADROOM
+SHOULDER ROOM
+LATERAL LOCATION
 COUPLES (if applicable)
 
+### Exercise Five Interior & Cargo
 
-
-### Exercise Five Interior & Cargo 
->Reference Chapter 7
+> Reference Chapter 7
 
 ![image](./img/chapter_13/exercisesinterior.jpg)
 
@@ -135,11 +129,11 @@ Set up the interior environment around the occupants.Look at each major componen
 
 **Focus on the following**
 
-Headliner and door trim. (use these to set up the exterior hardpoints) 
-Cargo storage areas. 
-Steering wheel, controls and instrument panel. 
-Telematics/ HMI. 
-Seating systems.  
+Headliner and door trim. (use these to set up the exterior hardpoints)
+Cargo storage areas.
+Steering wheel, controls and instrument panel.
+Telematics/ HMI.
+Seating systems.
 Floor consoles.
 
 **To help set up the storage areas, list the items to be carried and note the size & weight where appropriate.**
@@ -154,8 +148,9 @@ Examples:
 
 Outside visibility, reclined sleeping, video screen visibility face-to-face seating, tables and work surfaces, work/. business meetings, automated driving, interior flexibility,. (i.e., stowing seats) and cooking..
 
-### Exercise Six Powertrain Packaging 
->Reference Chapter 8
+### Exercise Six Powertrain Packaging
+
+> Reference Chapter 8
 
 ![image](./img/chapter_13/exercisespowertrain.jpg)
 
@@ -167,27 +162,27 @@ Power, image, handling, aerodynamics, off-road capability, cost, fuel consumptio
 
 **List target specifications for the following:**
 
-Top Speed 
-Acceleration 0-60mph 
+Top Speed
+Acceleration 0-60mph
 Fuel Consumption (MPG or equivalent)
 
 **Specify the type of system and the components:**
 
 * Type (internal combustion, electric, hybrid or other)
 * Fuel type (Gasoline, Diesel, Hydrogen, Biofuel, Electric, etc.)
-* Motor: 
-  Size (cubic capacity) 
-  Configuration (V8, Flat 4, straight 6, etc.) 
-  Location 
-  Orientation 
+* Motor:
+  Size (cubic capacity)
+  Configuration (V8, Flat 4, straight 6, etc.)
+  Location
+  Orientation
   Power output. BHP or kW.
   Torque
 
-### Exercise Seven Wheels & Tires. 
+### Exercise Seven Wheels & Tires.
+
 》Reference Chapter 9
 
 ![image](./img/chapter_13/exercisestire.jpg)
-
 
 Establish the wheel and tire sizes for your project and position them in the package. Start by setting an approximate target tire diameter and profile width.Also state the desired wheel size.Locate the spindle centers and establish the track width。
 
@@ -197,14 +192,15 @@ On-road handling,off-road capability, high GVW, package efficiency ride comfort,
 
 **List the following specifications for the Front & Rear Wheels and Tires:**
 
-* Technology and Tire type. (conventional, run flat, airless, passenger car, truck, off-road, variable inflation, etc) 
-* Tire-size specification. (i.e., P 225/45 R 17) 
-* Tire O.D. 
-* Wheel rim width. 
+* Technology and Tire type. (conventional, run flat, airless, passenger car, truck, off-road, variable inflation, etc)
+* Tire-size specification. (i.e., P 225/45 R 17)
+* Tire O.D.
+* Wheel rim width.
 * Also confirm: The Wheelbase and Track Width.
 
-### Exercise Eight Suspension and Chassis 
->Reference Chapter 10
+### Exercise Eight Suspension and Chassis
+
+> Reference Chapter 10
 
 ![image](./img/chapter_13/exercisessuspension.jpg)
 
@@ -219,13 +215,15 @@ On-road handling, off-road capability, high GVw, package efficiency, ride comfor
 * Suspension travel dimension front and rear. (curb attitude to full jounce)
 
 Optional:
+
 * Steering System
 * Braking System
 
 ### Exercise Nine Body & Exterior Trim
->Reference Chapter 11
 
-Determine the body style for your concept and choose a type of construction. Think about the following before making these decisions: 
+> Reference Chapter 11
+
+Determine the body style for your concept and choose a type of construction. Think about the following before making these decisions:
 
 The vehicle's purpose and function, annual sales volumes, weight targets, cost, investment, paint, durability, towing capacity, closures, load-carrying capacity.
 
@@ -240,8 +238,9 @@ The vehicle's purpose and function, annual sales volumes, weight targets, cost, 
 * Special glazing requirements. (tall belt height, extreme windshield angle, dropping side glass, etc.)
 * Consider the size and location for the other exterior features. (lights, breathing apertures and license-plate pockets)
 
-### Exercise Ten Create a Package Logic Drawing 
->Reference All Chapters
+### Exercise Ten Create a Package Logic Drawing
+
+> Reference All Chapters
 
 Compile the information gathered in the previous nine exercises and clearly communicate the package with a clean and graphically appealing drawing which should be created in Adobe Illustrator or a similar computer graphic system. Reference the layouts on pages 61-64.
 
@@ -258,7 +257,7 @@ The size, scale and layout of the drawing should be determined by its use (with 
 
 ![image](./img/chapter_13/creatpackagedrawing.jpg)
 
-----
+---
 
 # END OF THE BOOK
 

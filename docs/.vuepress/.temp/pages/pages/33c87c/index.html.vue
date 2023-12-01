@@ -34,7 +34,7 @@
 <p>As you work through this process, continue research into the major elements of the package. Consider the seating position for the occupants and think about the number of passengers, how they will relate to each other, their orientation and approximate location. Set up their height from the ground and their posture. Make notes on the drawing as you go.</p>
 <p>The powertrain specification should be estimated from the target performance goals and approximate weight of the car. Also look at which wheels will be driven.</p>
 <p>The cargo requirements should be set out in the functional objectives. If specific items need to be carried, get their measurements and include these in the sketches.</p>
-<p>If the wheel size or locations are important, add information about diameters, wheelbase, track, etc.	
+<p>If the wheel size or locations are important, add information about diameters, wheelbase, track, etc.
 Loosely sketch a body profile over each package to look	at the proportional difference between each study, theoutlines may inspire a design theme.</p>
 <p><strong>Some Primary Target Specifications</strong></p>
 <table>

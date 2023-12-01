@@ -1,14 +1,7 @@
 ---
 title: Chapter_03_FuntionAndMarketSegment
 date: 2023-11-29 17:33:54
-permalink: /pages/eae4f4/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter3/
 ---
 # Chapter 3 Function & Market Seqments
 
@@ -49,7 +42,8 @@ These examples ot current production car rear occupant head environments are oft
 ![image](./img/chapter_03/typicalcompromise.jpg "Typical production vehicles with compromised rear occupant environments")
 
 ### REQUIREMENT SUBJECTS TO CONSIDER
-The lists below contains the key factors that should be considered before the functional objectives are set up. 
+
+The lists below contains the key factors that should be considered before the functional objectives are set up.
 
 **CUSTOMER FOCUSED ATTRIBUTES**
 
@@ -64,6 +58,7 @@ The lists below contains the key factors that should be considered before the fu
 **infrastructure . population density . parking . economy . taxation . insurance . ecology . culture . legislation . security . climate . consumer advocate groups . sales volumes . discrimination . infotainment**
 
 ### MAKING NOTES
+
 As the concept sketches develop, take notes associated with the objective subjects
 
 ![image](./img/chapter_03/makingnotes.jpg)
@@ -80,7 +75,7 @@ This graphichelps tovisualizewhere the concept falls within the manufac- turer's
 
 ![image](./img/chapter_03/positioning.jpg)
 
-The example graph shows on-road versus off-road vehicles.The car and SUVs are positioned from one extreme to another from top to bottom. From left to right is economy vs prestige, so the vehicle can. slide across the page according to its cost. Other subjects can be. pulled from the list of factors on page 69 to make up several charts,. ensuring that the concept does not clash with other products in the showroom. 
+The example graph shows on-road versus off-road vehicles.The car and SUVs are positioned from one extreme to another from top to bottom. From left to right is economy vs prestige, so the vehicle can. slide across the page according to its cost. Other subjects can be. pulled from the list of factors on page 69 to make up several charts,. ensuring that the concept does not clash with other products in the showroom.
 
 Ultimately, whatever you design will be sold in a branded showroom environment. Each brand will sell products that fit into the strategy that is set out by the product planning team with vehicles that meet the functional requirements and brand image without overlapping products in other market segments
 
@@ -94,15 +89,13 @@ For a variety of reasons, most governments want to control the types of vehicles
 
 ![image](./img/chapter_03/cars.jpg)
 
-
 The vehicle design can be affected by factors that range from crash requirements and overall dimensional. limitations, to the number of wheels and lighting. specifications. Taxation classes are often determined by. engine size and power output but may also be affected by overall size, value and the number of wheels.
 
 Use regulations are usuallyset up to permit vehicles with specific functions to excel in their duties
 
-A good example is the off-road vehicle, which USA regulations allow to be designed without the same bumper regulations that apply to cars. This enables then to achieve good approach and departure angles in extreme off-road conditions.Neighborhood electric vehicles are allowed to drive on the main roads without passing 40mph crash regulations. This helps to reduce their size, weight and cost, effectively reducing their fuel consumption and emissions 
+A good example is the off-road vehicle, which USA regulations allow to be designed without the same bumper regulations that apply to cars. This enables then to achieve good approach and departure angles in extreme off-road conditions.Neighborhood electric vehicles are allowed to drive on the main roads without passing 40mph crash regulations. This helps to reduce their size, weight and cost, effectively reducing their fuel consumption and emissions
 
 ![image](./img/chapter_03/trucks.jpg)
-
 
 ### MICRO CARS
 
@@ -116,14 +109,11 @@ This is the smallest type of passenger car allowed to drive on all roads. Micro 
 
 This group represents the largest share of the global passenger car market and is often referred to as the B, C and D segment of vehicles.The objective is to provide inexpensive 5- passenger-plus-cargo transportation, so the packaging needs to be very efficient. Designers look to achieve the largest interior space within the smallest exterior box dimensions to minimize cost, weight and aerodynamic drag.The powertrain and suspension systems are optimized for space efficiency, rather than performance.The body structures are designed to meet very high production volumes and low-cost targets.
 
-
-
 ### LUXURY CARS
+
 ![image](./img/chapter_03/luxurycars.jpg)
 
 This segment is often referred to as the executive or E class. Interior space, refinement, speed handling and a prestigious appearance are high priorities. The powertrain, occupant package and tire envelopes are usually generous which result in large overall dimensions. The body is designed for high-quality and often high-volume production, with attention to noise reduction through optimized aerodynamics and structural stiffness.The suspension systems are uncompromised to ensure the handling and ride comfort are also fully optimized.
-
-
 
 ### HIGH PERFORMANCE CARS
 
@@ -131,15 +121,11 @@ This segment is often referred to as the executive or E class. Interior space, r
 
 The main objectives tor this segment are high pertormance and exotic design. Uncompromise powertrains, body structures, suspension, tires, aerodynamics and a low center of gravity are. priorities. The occupant environment is minimized and cargo space is generally compromised. Customers of extreme, high-performance sports-cars are usually affluent enthusiasts, so high. purchase price is not usually an issue. This allows these cars to be built by hand in low. Volumes.
 
-
-
 ### MINIVANS
 
 ![image](./img/chapter_03/minivans.jpg)
 
 This is a relatively young segment, detined by a passenger-oriented package, usually tor seve or eight. They are designated as trucks in the US market due to their cargo-carrying capability Powertrains need to be large enough to pull the vehicles when fully loaded but packaged to. have a minimum impact on the occupant environment. The unibody construction is designed. for very high production and closures usually include sliding rear doors. Suspension systems. should be economical and efficiently packaged with the rear suspension designed for load. carrying and ride-height variance. Typically, the interior will have a flat floor with the capability to reconfigure and stow the seats. Additionally, the occupants will sit high for security and a commanding view of the road
-
-
 
 ### SUVS
 
@@ -156,8 +142,6 @@ Pickup trucks are used for both commercial and personal applications. Their dura
 Pickup trucks are used for both commercial and personal applications. Their durable construction, powerful, high-torque engines and 4WD are designed to carry and tow heavy loads in all types of environments.Suspension systems must be able to support a wide rang of loading conditions and offer various ride-height options.. The body construction is traditionally body-on-frame and often is the basis for an SUV. derivative. Trucks come in numerous length configurations depending on cab and bed-size requirements.
 
 The body construction is traditionally body-on-frame and often is the basis for an SUV derivative. Trucks come in numerous length configurations depending on cab and bed-size requirements.
-
-
 
 ### COMMERCIAL VANS
 

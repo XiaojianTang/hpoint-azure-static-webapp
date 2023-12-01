@@ -1,21 +1,14 @@
 ---
 title: Chapter_08_Powertrains
 date: 2023-11-29 17:33:54
-permalink: /pages/bc052d/
-categories:
-  - H-POINT-EBOOK
-tags:
-  - 
-author: 
-  name: xugaoyi
-  link: https://github.com/xugaoyi
+permalink: /pages/chapter8/
 ---
 # Chapter 8 Powertrains
 
 ![image](./img/chapter_08/chapter08cover.jpg)
 
->“The powertrain is one of the most influential systems on the architecture, due to its size and weight.
-Battery electric, hybrid and revolutionary powertrains create opportunities to reinvent architectures for more efficiently packaged vehicles."
+> “The powertrain is one of the most influential systems on the architecture, due to its size and weight.
+> Battery electric, hybrid and revolutionary powertrains create opportunities to reinvent architectures for more efficiently packaged vehicles."
 
 ## Section 8.1 Powertrain Anatomy
 
@@ -42,12 +35,14 @@ Exhaust packaging is not usually the focus of early package studies, but large c
 This comprises the drive shafts, differentials and transfer case (for 4WD). Their motion linked to suspension travel, should be considered during the initial package studies.
 
 ### ANATOMY OF A TYPICAL FRONT WHEEL DRIVE POWERTRAIN
+
 ![image](./img/chapter_08/frpowertrain1.jpg)
 The transverse engine, front wheel drive layout is one of the most common configurations in passenger cars.
 
 ![image](./img/chapter_08/frpowertrain.jpg)
 
 ### ANATOMY OF THE ELECTRIC POWERTRAIN
+
 ![image](./img/chapter_08/evpowertrain1.jpg)
 
 Packaging an electric system requires a different attitude to a conventional powertrain.. Here the motors are relatively small but the energy or fuel-storage systems are quite arge in comparison to those of internal combustion systems. The main thing to take. advantage of is the low-profile potential for these components.If the system can be packaged under the floor, for instance, it allows the designer the opportunity to reduce the overall length of the vehicle and change the exterior proportions.
@@ -60,7 +55,7 @@ The electric power can be stored in batteries or created by a fuel cell. The bat
 **Cooling**
 Although electric systems are far more efficient than internal combustion engines, they still generate heat which needs to be dissipated.
 
-**The Motor and Final Drive** 
+**The Motor and Final Drive**
 Electric motors are very powerful for their size and. develop a lot of torque at low revs.This allows then to be packaged easily on the axle or at each wheel and also eliminates the need for a conventional transmission. The final drive (shafts) and differential can be attached directly to the motor through. reduction gears.
 
 **Electronic Controllers**
@@ -74,8 +69,8 @@ The internal combustion engine has been used in just about every possible locati
 ![image](./img/chapter_08/powertrainlayout2.jpg)
 
 ### RONT TRANSVERSE ENGINE - FRONT WHEEL DRIVE
-![image](./img/chapter_08/fwlayout1.jpg)
 
+![image](./img/chapter_08/fwlayout1.jpg)
 
 One of the most popular configurations for passenger cars over the last 45 years. This is a very space-efficient layout, which can be mounted to the body with the powertrain and. suspension pre-assembled. It is ideal for small economy cars or large minivans where. passenger space is a priority. This layout is also used on most standard midsize cars..
 
@@ -87,7 +82,7 @@ The width between the front frame rails can limit the length of the engine,makin
 
 ![image](./img/chapter_08/frlayout1.jpg)
 
-This traditional layout was introduced in the late 18o0s and is still used on the vast majority o1 pickup trucks, luxury passenger cars and sports cars.The longitudinal orientation allows for Iarger (longer) engines to be installed between the frame rails without restricting the steering angles, helping to reduce turn circles on vehicles with longer wheelbases. Because the engine is not linked directly to the driven wheels it can be positioned for optimum weight distribution. The manual gear shift can also be directly linked to the transmission for crisp gear changes. 
+This traditional layout was introduced in the late 18o0s and is still used on the vast majority o1 pickup trucks, luxury passenger cars and sports cars.The longitudinal orientation allows for Iarger (longer) engines to be installed between the frame rails without restricting the steering angles, helping to reduce turn circles on vehicles with longer wheelbases. Because the engine is not linked directly to the driven wheels it can be positioned for optimum weight distribution. The manual gear shift can also be directly linked to the transmission for crisp gear changes.
 
 Final drive can be through a fixed differential or articulating solid axle. Four-wheel drive is. achieved through a transfer case and additional driveshaft to the front axle. The longer. driveshafts also allow for greater suspension articulation for off-road vehicles
 ![image](./img/chapter_08/frlayout2.jpg)
@@ -98,39 +93,46 @@ This configuration is usually adopted by manufacturers who specialize in AWD pas
 ![image](./img/chapter_08/frlayout4.jpg)
 
 ### MID ENGINE REAR-WHEEL DRIVE & AWD
+
 ![image](./img/chapter_08/mrlayout.jpg)
 
 This configuration is best suited to high-performance sports cars. Having the engine mounted longitudinally ahead of the rear wheels optimizes the weight distribution for handling and cornering capabilities but eliminates the possibility of rear passengers. All- wheel drive is also possible with this layout. When the powertrain is located toward the rear of the vehicle, the cooling modules can be ocated remotely at the front or adjacent to the engine, usually in front of the rear tires. This will affect the location of the breathing apertures which will significantly affect the exterior design.
 ![image](./img/chapter_08/mrlayout2.jpg)
 
 ### REAR LONGITUDINAL ENGINE REAR-WHEEL DRIVE & AWD
+
 ![image](./img/chapter_08/rrlayout.jpg)
 
 Once favored by many European makers for low-powered family car this layout is rarely used today. The rear-weight bias can make for tricky handling at the extreme, although electronic traction controls and tire technology have made rear-engine cars more forgiving to drive. Traction for acceleration though, is supreme. All-wheel drive is. easy with this layout. Luggage accommodation under the hood and some rear passenger space are possible with this configuration. H-POINT Powertrains
 ![image](./img/chapter_08/rrlayout2.jpg)
 
 ### MID TRANSVERSE ENGINE -REAR-WHEEL DRIVE
+
 ![image](./img/chapter_08/mrtranslayout1.jpg)
 The mid transverse layout is often used on small sports cars. Engine size is limited by the track width, so these are usually found in lightweight, performance cars.The powertrains. are often adapted from front-wheel drive vehicles.This provides great weight distribution. in a car with a short wheelbase.
 ![image](./img/chapter_08/mrtranslayout2.jpg)
 
 ### REAR TRANSVERSE ENGINE -REAR-WHEEL DRIVE
+
 ![image](./img/chapter_08/rrtranslayout1.jpg)
 Rear transverse engine layouts are applied when space (length) is critical. It is ideal for micr.. cars where the engine size is small enough to package behind/under the driver seat, helping. to reduce the length of the vehicle in front of the driver's feet. Frontal impact targets require. vehicles to have free crush space between the bumper and driver's feet. Taking the engine out of the crush zone helps to create a more efficient package.
 ![image](./img/chapter_08/rrtranslayout2.jpg)
 
 ### MID UNDER FLOOR ENGINE-REAR-WHEEL DRIVE
+
 ![image](./img/chapter_08/midunderfloorlayout1.jpg)
 This layout is used for space efficiency more than weight distribution and is usually applied to micro-utility vehicles. The engine is packaged under the passenger seat, which restricts its size and limits the weight of the vehicle. Access for maintenance can be an issue. AwD is possible through a transfer case.
 ![image](./img/chapter_08/midunderfloorlayout2.jpg)
 
 ### ELECTRIC DRIVE
+
 ![image](./img/chapter_08/evlayout1.jpg)
 From a packaging perspective, electric drive offers a tremendous opportunity to design more space-efficient vehicles, mainly because the motors are so much smaller than internal combustion engines.The other components that make up the powertrain can b distributed throughout the package in remote locations, unlike conventional powertrain. systems which are linked mechanically, creating a large, heavy assembly that has to be worked around. Another significant difference is the power source or fuel. Conventiona. cars have fuel tanks that are relatively small and can be molded to fit around other components, whereas the energy source for an electric system, either a battery or fuel cell, is quite large and in the case of batteries, very heavy. This can work as an advantage, lowering the center of gravity.
 
 ![image](./img/chapter_08/evlayout2.jpg)
 
 ### HYBRID DRIVE SYSTEMS
+
 ![image](./img/chapter_08/hybridlayout1.jpg)
 
 These systems are seen as a stepping-stone toward future all-electric powertrains.They mix the attributes of internal combustion engines and electric motors to provide a fuel-efficient powertrain with a long range.Although they have more components than conventional systems, the engines can be smaller because of the extra torque provided by the electric motor
@@ -154,7 +156,7 @@ Some vehicles will require a lot of power, others not so much.High. amounts of t
 Developing internal combustion engines and transmissions takes a Iong time and is expensive, so each manufacturer generally already. has their own limited but strategic range from which to choose.. Sometimes a manufacturer will develop an engine with a competitor to save costs.As the industry moves away from internal combustion engines, it is likely that the manufacturers will source powertrains. from their suppliers rather than develop them themselves.
 
 **What is the main priority for the package?**
-For some cars, power and performance are a high priority so the powertrain may dominate the architecture. 
+For some cars, power and performance are a high priority so the powertrain may dominate the architecture.
 
 For others the passengers and cargo may be the most important consideration so the engine and transmission layout will be driven by package efficiency (see the following page).
 
@@ -165,6 +167,7 @@ Powertrains occupy a lot of space, particularly conventional internal combustion
 The tinal drive system distributes the power to the wheels, so this part of the powertrain will be influenced by traction. requirements. Front-wheel-drive cars gain an advantage because the weight of the engine is directly over the wheels Rear wheel-drive cars work well when loaded or under acceleration but usually require the transmission to pass along the center of the vehicle, through the passenger compartment Driving all four wheels is ideal but a more expensive and heavier solution.Vehicles designed for off-road use or for operation in extreme climates may require special all-wheel drive (AWD or 4WD) configurations, which usually intrude into the occupant package more than a 2WD layout.
 
 ### POWERTRAIN PRIORITIES
+
 High-performance cars often use their engine to make a bold statement. In this package the power train dominates the side view and has a dramatic effect on the proportions, exterior design and occupant package.
 
 **Weight Distribution and Aerodynamics**
@@ -177,7 +180,7 @@ For serious off-road vehicles, traction takes a high priority, so durable 4WD sy
 Minivans require a very efficient package and put great emphasis on the occupants. Th transverse engine and transmission occupy only a small portion of the architecture. Because all of the powertrain components are in front of the occupants' feet, the. entire floor can be designed flat
 
 **Environment**
-Alternative propulsion systems are being developed to help reduce harmful emissions, but their size and proportion also create new packaging opportunities.Generally, the motor and transmission are a fraction of the size of conventional internal combustion engine powertrains, but the fuel systems (batteries and fuel cells) are considerably large compared with gasoline fuel tanks. Because no one component is large in all directions the entire powertrain can usually be packaged under the floor. 
+Alternative propulsion systems are being developed to help reduce harmful emissions, but their size and proportion also create new packaging opportunities.Generally, the motor and transmission are a fraction of the size of conventional internal combustion engine powertrains, but the fuel systems (batteries and fuel cells) are considerably large compared with gasoline fuel tanks. Because no one component is large in all directions the entire powertrain can usually be packaged under the floor.
 
 ## Section 8.4 Power Characteristics
 
@@ -205,7 +208,7 @@ Short engines (in-line fours and V sixes) are often used in transverse applicati
 **Proportions Influenced by Engine Length**
 Below are four examples illustrating how the number of cylinders and engine length may influence the overall size and proportions.
 
-**Typical Short Engine Applications** 
+**Typical Short Engine Applications**
 In-line four or V-six engines are often used on vehicles where package efficiency or minimizing overall size is a priority. These can usually be packaged in a transverse orientation.
 ![image](./img/chapter_08/shorterengine.jpg)
 
@@ -214,6 +217,7 @@ Larger engines are used when power is a priority. The vehicle. proportions are q
 ![image](./img/chapter_08/longerengine.jpg)
 
 ### CYLINDER AND BLOCK CONFIGURATIONS
+
 The blocks are configured to help the vehicle meet its functional objectives by either improving the package, performance or comfort. Larger engines have more cylinders to minimize the size and reciprocating mass of the pistons.
 
 ![image](./img/chapter_08/cylinder.jpg)
